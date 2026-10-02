@@ -68,10 +68,26 @@ export function createEngine(db){
   }
   return [...grouped.values()].sort((a,b)=>(cards.get(b.id).atk??-1)-(cards.get(a.id).atk??-1)||cards.get(a.id).name.localeCompare(cards.get(b.id).name));
  }
+ // Recipes in which the focused card is an ingredient, optionally restricted
+ // to physical copies in a deck. Null deck searches the entire card library.
+ function ingredientFusions(id,deck=null){
+  if(!cards.has(id))throw new Error('Choose a valid card ID.');
+  if(deck!==null){
+   if(!Array.isArray(deck))throw new Error('Choose a valid deck.');
+   const slot=deck.indexOf(id);if(slot<0)throw new Error('This card is not in the deck.');
+   return deckFusions(deck,slot).map(r=>({...r,pairs:r.pairs.map(p=>({...p,a:id,b:p.a===id?p.b:p.a}))}));
+  }
+  const grouped=new Map();
+  for(const p of potentialPartners(id)){
+   if(!grouped.has(p.resultId))grouped.set(p.resultId,{id:p.resultId,pairs:[]});
+   grouped.get(p.resultId).pairs.push({a:id,b:p.partnerId,evidence:p.evidence});
+  }
+  return [...grouped.values()];
+ }
  function recipesProducing(id){
   return db.recipes.filter(r=>r.results.some(o=>o.id===id)).map(r=>({a:r.a,b:r.b,evidence:fuse(r.a,r.b).find(o=>o.id===id)}));
  }
- return {cards,fuse,potentialPartners,explore,deckFusions,recipesProducing};
+ return {cards,fuse,potentialPartners,explore,deckFusions,ingredientFusions,recipesProducing};
 }
 export function stepsFor(tree){const steps=[];function walk(t){if(!t.left)return {id:t.id,slot:t.slot};const a=walk(t.left),b=walk(t.right);const n=steps.length+1;steps.push({a,b,id:t.id,n,evidence:t.evidence});return {id:t.id,step:n}}walk(tree);return steps}
 export function hasSeparateBranches(t){return !!t.left&&((t.left.steps>0&&t.right.steps>0)||hasSeparateBranches(t.left)||hasSeparateBranches(t.right))}
