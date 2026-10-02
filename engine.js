@@ -51,7 +51,27 @@ export function createEngine(db){
   const grouped=new Map();for(const t of all.values()){if(!grouped.has(t.id))grouped.set(t.id,[]);grouped.get(t.id).push(t)}
   return [...grouped].map(([id,paths])=>({id,paths:paths.sort((a,b)=>a.uncertain-b.uncertain||a.steps-b.steps||a.key.localeCompare(b.key))})).sort((a,b)=>(cards.get(b.id).atk??-1)-(cards.get(a.id).atk??-1)||cards.get(a.id).name.localeCompare(cards.get(b.id).name));
  }
- return {cards,fuse,potentialPartners,explore};
+ // Direct fusions from physical deck copies. A selected slot restricts pairs to
+ // that copy; identical copies cannot stand in for a missing second ingredient.
+ function deckFusions(deck,selectedSlot=null){
+  if(!Array.isArray(deck)||deck.length>40||deck.some(id=>!cards.has(id)))throw new Error('Choose up to 40 valid cards.');
+  if(selectedSlot!==null&&(!Number.isInteger(selectedSlot)||selectedSlot<0||selectedSlot>=deck.length))throw new Error('Choose a valid deck slot.');
+  const grouped=new Map(),seen=new Set();
+  for(let i=0;i<deck.length;i++)for(let j=i+1;j<deck.length;j++){
+   if(selectedSlot!==null&&i!==selectedSlot&&j!==selectedSlot)continue;
+   const [a,b]=[deck[i],deck[j]].sort((a,b)=>a-b),key=`${a},${b}`;
+   if(seen.has(key))continue;seen.add(key);
+   for(const evidence of fuse(a,b)){
+    if(!grouped.has(evidence.id))grouped.set(evidence.id,{id:evidence.id,pairs:[]});
+    grouped.get(evidence.id).pairs.push({a,b,evidence});
+   }
+  }
+  return [...grouped.values()].sort((a,b)=>(cards.get(b.id).atk??-1)-(cards.get(a.id).atk??-1)||cards.get(a.id).name.localeCompare(cards.get(b.id).name));
+ }
+ function recipesProducing(id){
+  return db.recipes.filter(r=>r.results.some(o=>o.id===id)).map(r=>({a:r.a,b:r.b,evidence:fuse(r.a,r.b).find(o=>o.id===id)}));
+ }
+ return {cards,fuse,potentialPartners,explore,deckFusions,recipesProducing};
 }
 export function stepsFor(tree){const steps=[];function walk(t){if(!t.left)return {id:t.id,slot:t.slot};const a=walk(t.left),b=walk(t.right);const n=steps.length+1;steps.push({a,b,id:t.id,n,evidence:t.evidence});return {id:t.id,step:n}}walk(tree);return steps}
 export function hasSeparateBranches(t){return !!t.left&&((t.left.steps>0&&t.right.steps>0)||hasSeparateBranches(t.left)||hasSeparateBranches(t.right))}
