@@ -26,6 +26,12 @@ export function createEngine(db){
   }));
   const ids=[...new Set(candidates.map(c=>c.id))];const results=ids.map(id=>({id,sources:['CSV rule'],uncertain:ids.length>1,note:ids.length>1?'Overlapping rules have no resolved priority in the supplied sources.':''}));cache.set(key,results);return results;
  }
+ function potentialPartners(id){
+  if(!cards.has(id))throw new Error('Choose a valid card ID.');
+  const combinations=[];
+  for(const partner of cards.values())for(const outcome of fuse(id,partner.id))combinations.push({partnerId:partner.id,resultId:outcome.id,evidence:outcome});
+  return combinations.sort((a,b)=>(cards.get(b.resultId).atk??-1)-(cards.get(a.resultId).atk??-1)||cards.get(a.partnerId).name.localeCompare(cards.get(b.partnerId).name)||cards.get(a.resultId).name.localeCompare(cards.get(b.resultId).name));
+ }
  function explore(hand){
   if(!Array.isArray(hand)||hand.length>5||hand.length<2||hand.some(id=>!cards.has(id)))throw new Error('Choose two to five valid card IDs.');
   const states=Array.from({length:1<<hand.length},()=>new Map());
@@ -45,7 +51,7 @@ export function createEngine(db){
   const grouped=new Map();for(const t of all.values()){if(!grouped.has(t.id))grouped.set(t.id,[]);grouped.get(t.id).push(t)}
   return [...grouped].map(([id,paths])=>({id,paths:paths.sort((a,b)=>a.uncertain-b.uncertain||a.steps-b.steps||a.key.localeCompare(b.key))})).sort((a,b)=>(cards.get(b.id).atk??-1)-(cards.get(a.id).atk??-1)||cards.get(a.id).name.localeCompare(cards.get(b.id).name));
  }
- return {cards,fuse,explore};
+ return {cards,fuse,potentialPartners,explore};
 }
 export function stepsFor(tree){const steps=[];function walk(t){if(!t.left)return {id:t.id,slot:t.slot};const a=walk(t.left),b=walk(t.right);const n=steps.length+1;steps.push({a,b,id:t.id,n,evidence:t.evidence});return {id:t.id,step:n}}walk(tree);return steps}
 export function hasSeparateBranches(t){return !!t.left&&((t.left.steps>0&&t.right.steps>0)||hasSeparateBranches(t.left)||hasSeparateBranches(t.right))}
