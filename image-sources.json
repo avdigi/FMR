@@ -1,0 +1,1928 @@
+[
+  {
+    "id": 1,
+    "name": "Blue-eyes White Dragon",
+    "page": "https://yugipedia.com/wiki/Blue-eyes_White_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/ba/BlueeyesWhiteDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 14,
+    "name": "Battle Steer",
+    "page": "https://yugipedia.com/wiki/Battle_Steer_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/38/BattleSteer-FMR-NA-VG.png"
+  },
+  {
+    "id": 27,
+    "name": "Beaver Warrior",
+    "page": "https://yugipedia.com/wiki/Beaver_Warrior_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/1a/BeaverWarrior-FMR-NA-VG.png"
+  },
+  {
+    "id": 28,
+    "name": "Rock Ogre Grotto #1",
+    "page": "https://yugipedia.com/wiki/Rock_Ogre_Grotto_1_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/ce/RockOgreGrotto1-FMR-NA-VG.png"
+  },
+  {
+    "id": 29,
+    "name": "Mountain Warrior",
+    "page": "https://yugipedia.com/wiki/Mountain_Warrior_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a4/MountainWarrior-FMR-NA-VG.png"
+  },
+  {
+    "id": 32,
+    "name": "Two-headed King Rex",
+    "page": "https://yugipedia.com/wiki/Two-headed_King_Rex_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/36/TwoheadedKingRex-FMR-NA-VG.png"
+  },
+  {
+    "id": 35,
+    "name": "Dark Magician",
+    "page": "https://yugipedia.com/wiki/Dark_Magician_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a0/DarkMagician-FMR-NA-VG.png"
+  },
+  {
+    "id": 44,
+    "name": "Rogue Doll",
+    "page": "https://yugipedia.com/wiki/Rogue_Doll_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/61/RogueDoll-FMR-NA-VG.png"
+  },
+  {
+    "id": 49,
+    "name": "Big Insect",
+    "page": "https://yugipedia.com/wiki/Big_Insect_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/fc/BigInsect-FMR-NA-VG.png"
+  },
+  {
+    "id": 50,
+    "name": "Basic Insect",
+    "page": "https://yugipedia.com/wiki/Basic_Insect_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c6/BasicInsect-FMR-NA-VG.png"
+  },
+  {
+    "id": 51,
+    "name": "Armored Lizard",
+    "page": "https://yugipedia.com/wiki/Armored_Lizard_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/fe/ArmoredLizard-FMR-NA-VG.png"
+  },
+  {
+    "id": 52,
+    "name": "Hercules Beetle",
+    "page": "https://yugipedia.com/wiki/Hercules_Beetle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6d/HerculesBeetle-FMR-NA-VG.png"
+  },
+  {
+    "id": 53,
+    "name": "Killer Needle",
+    "page": "https://yugipedia.com/wiki/Killer_Needle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/20/KillerNeedle-FMR-NA-VG.png"
+  },
+  {
+    "id": 54,
+    "name": "Gokibore",
+    "page": "https://yugipedia.com/wiki/Gokibore_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6f/Gokibore-FMR-NA-VG.png"
+  },
+  {
+    "id": 55,
+    "name": "Giant Flea",
+    "page": "https://yugipedia.com/wiki/Giant_Flea_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/cb/GiantFlea-FMR-NA-VG.png"
+  },
+  {
+    "id": 56,
+    "name": "Larvae Moth",
+    "page": "https://yugipedia.com/wiki/Larvae_Moth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e7/LarvaeMoth-FMR-NA-VG.png"
+  },
+  {
+    "id": 57,
+    "name": "Great Moth",
+    "page": "https://yugipedia.com/wiki/Great_Moth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d4/GreatMoth-FMR-NA-VG.png"
+  },
+  {
+    "id": 60,
+    "name": "Great White",
+    "page": "https://yugipedia.com/wiki/Great_White_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/52/GreatWhite-FMR-NA-VG.png"
+  },
+  {
+    "id": 67,
+    "name": "Perfectly Ultimate Great Moth",
+    "page": "https://yugipedia.com/wiki/Perfectly_Ultimate_Great_Moth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3f/PerfectlyUltimateGreatMoth-FMR-NA-VG.png"
+  },
+  {
+    "id": 68,
+    "name": "Garoozis",
+    "page": "https://yugipedia.com/wiki/Garoozis_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e4/Garoozis-FMR-NA-VG.png"
+  },
+  {
+    "id": 76,
+    "name": "Krokodilus",
+    "page": "https://yugipedia.com/wiki/Krokodilus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/65/Krokodilus-FMR-NA-VG.png"
+  },
+  {
+    "id": 77,
+    "name": "Grappler",
+    "page": "https://yugipedia.com/wiki/Grappler_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b4/Grappler-FMR-NA-VG.png"
+  },
+  {
+    "id": 79,
+    "name": "Megazowler",
+    "page": "https://yugipedia.com/wiki/Megazowler_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c8/Megazowler-FMR-NA-VG.png"
+  },
+  {
+    "id": 80,
+    "name": "Uraby",
+    "page": "https://yugipedia.com/wiki/Uraby_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/aa/Uraby-FMR-NA-VG.png"
+  },
+  {
+    "id": 105,
+    "name": "Tomozaurus",
+    "page": "https://yugipedia.com/wiki/Tomozaurus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/37/Tomozaurus-FMR-NA-VG.png"
+  },
+  {
+    "id": 106,
+    "name": "Spirit of the Winds",
+    "page": "https://yugipedia.com/wiki/Spirit_of_the_Winds_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/5b/SpiritoftheWinds-FMR-NA-VG.png"
+  },
+  {
+    "id": 109,
+    "name": "Goddess with the Third Eye",
+    "page": "https://yugipedia.com/wiki/Goddess_with_the_Third_Eye_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/53/GoddesswiththeThirdEye-FMR-NA-VG.png"
+  },
+  {
+    "id": 111,
+    "name": "Doma The Angel of Silence",
+    "page": "https://yugipedia.com/wiki/Doma_The_Angel_of_Silence_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d9/DomaTheAngelofSilence-FMR-NA-VG.png"
+  },
+  {
+    "id": 116,
+    "name": "Nightmare Scorpion",
+    "page": "https://yugipedia.com/wiki/Nightmare_Scorpion_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/01/NightmareScorpion-FMR-NA-VG.png"
+  },
+  {
+    "id": 124,
+    "name": "Ancient Tool",
+    "page": "https://yugipedia.com/wiki/Ancient_Tool_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/47/AncientTool-FMR-NA-VG.png"
+  },
+  {
+    "id": 125,
+    "name": "Faith Bird",
+    "page": "https://yugipedia.com/wiki/Faith_Bird_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/65/FaithBird-FMR-NA-VG.png"
+  },
+  {
+    "id": 163,
+    "name": "Lisark",
+    "page": "https://yugipedia.com/wiki/Lisark_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/51/Lisark-FMR-NA-VG.png"
+  },
+  {
+    "id": 191,
+    "name": "LALA Li-oon",
+    "page": "https://yugipedia.com/wiki/LALA_Li-oon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/18/LALALioon-FMR-NA-VG.png"
+  },
+  {
+    "id": 198,
+    "name": "Happy Lover",
+    "page": "https://yugipedia.com/wiki/Happy_Lover_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3a/HappyLover-FMR-NA-VG.png"
+  },
+  {
+    "id": 209,
+    "name": "Winged Cleaver",
+    "page": "https://yugipedia.com/wiki/Winged_Cleaver_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ab/WingedCleaver-FMR-NA-VG.png"
+  },
+  {
+    "id": 211,
+    "name": "Kaminarikozou",
+    "page": "https://yugipedia.com/wiki/Kaminarikozou_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/bd/Kaminarikozou-FMR-NA-VG.png"
+  },
+  {
+    "id": 217,
+    "name": "B. Skull Dragon",
+    "page": "https://yugipedia.com/wiki/B._Skull_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6f/BSkullDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 221,
+    "name": "Kumootoko",
+    "page": "https://yugipedia.com/wiki/Kumootoko_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c2/Kumootoko-FMR-NA-VG.png"
+  },
+  {
+    "id": 223,
+    "name": "Roaring Ocean Snake",
+    "page": "https://yugipedia.com/wiki/Roaring_Ocean_Snake_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/cf/RoaringOceanSnake-FMR-NA-VG.png"
+  },
+  {
+    "id": 230,
+    "name": "Rare Fish",
+    "page": "https://yugipedia.com/wiki/Rare_Fish_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/1d/RareFish-FMR-NA-VG.png"
+  },
+  {
+    "id": 237,
+    "name": "Haniwa",
+    "page": "https://yugipedia.com/wiki/Haniwa_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c4/Haniwa-FMR-NA-VG.png"
+  },
+  {
+    "id": 247,
+    "name": "Root Water",
+    "page": "https://yugipedia.com/wiki/Root_Water_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ab/RootWater-FMR-NA-VG.png"
+  },
+  {
+    "id": 251,
+    "name": "Enchanting Mermaid",
+    "page": "https://yugipedia.com/wiki/Enchanting_Mermaid_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/41/EnchantingMermaid-FMR-NA-VG.png"
+  },
+  {
+    "id": 252,
+    "name": "Nekogal #1",
+    "page": "https://yugipedia.com/wiki/Nekogal_1_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/60/Nekogal1-FMR-NA-VG.png"
+  },
+  {
+    "id": 257,
+    "name": "Stone Armadiller",
+    "page": "https://yugipedia.com/wiki/Stone_Armadiller_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c8/StoneArmadiller-FMR-NA-VG.png"
+  },
+  {
+    "id": 263,
+    "name": "Rock Ogre Grotto #2",
+    "page": "https://yugipedia.com/wiki/Rock_Ogre_Grotto_2_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/2c/RockOgreGrotto2-FMR-NA-VG.png"
+  },
+  {
+    "id": 275,
+    "name": "Ground Attacker Bugroth",
+    "page": "https://yugipedia.com/wiki/Ground_Attacker_Bugroth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/83/GroundAttackerBugroth-FMR-NA-VG.png"
+  },
+  {
+    "id": 276,
+    "name": "Ray & Temperature",
+    "page": "https://yugipedia.com/wiki/Ray_%26_Temperature_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/be/RayTemperature-FMR-NA-VG.png"
+  },
+  {
+    "id": 278,
+    "name": "Petit Moth",
+    "page": "https://yugipedia.com/wiki/Petit_Moth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/33/PetitMoth-FMR-NA-VG.png"
+  },
+  {
+    "id": 283,
+    "name": "Holograh",
+    "page": "https://yugipedia.com/wiki/Holograh_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b6/Holograh-FMR-NA-VG.png"
+  },
+  {
+    "id": 285,
+    "name": "Serpent Marauder",
+    "page": "https://yugipedia.com/wiki/Serpent_Marauder_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3f/SerpentMarauder-FMR-NA-VG.png"
+  },
+  {
+    "id": 286,
+    "name": "Gatekeeper",
+    "page": "https://yugipedia.com/wiki/Gatekeeper_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/66/Gatekeeper-FMR-NA-VG.png"
+  },
+  {
+    "id": 297,
+    "name": "Cyber Soldier of Darkworld",
+    "page": "https://yugipedia.com/wiki/Cyber_Soldier_of_Darkworld_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/30/CyberSoldierofDarkworld-FMR-NA-VG.png"
+  },
+  {
+    "id": 301,
+    "name": "Legendary Sword",
+    "page": "https://yugipedia.com/wiki/Legendary_Sword_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/1a/LegendarySword-FMR-NA-VG.png"
+  },
+  {
+    "id": 302,
+    "name": "Sword of Dark Destruction",
+    "page": "https://yugipedia.com/wiki/Sword_of_Dark_Destruction_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/1c/SwordofDarkDestruction-FMR-NA-VG.png"
+  },
+  {
+    "id": 303,
+    "name": "Dark Energy",
+    "page": "https://yugipedia.com/wiki/Dark_Energy_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/74/DarkEnergy-FMR-NA-VG.png"
+  },
+  {
+    "id": 304,
+    "name": "Axe of Despair",
+    "page": "https://yugipedia.com/wiki/Axe_of_Despair_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/34/AxeofDespair-FMR-NA-VG.png"
+  },
+  {
+    "id": 305,
+    "name": "Laser Cannon Armor",
+    "page": "https://yugipedia.com/wiki/Laser_Cannon_Armor_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/67/LaserCannonArmor-FMR-NA-VG.png"
+  },
+  {
+    "id": 306,
+    "name": "Insect Armor with Laser Cannon",
+    "page": "https://yugipedia.com/wiki/Insect_Armor_with_Laser_Cannon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/cc/InsectArmorwithLaserCannon-FMR-NA-VG.png"
+  },
+  {
+    "id": 307,
+    "name": "Elf's Light",
+    "page": "https://yugipedia.com/wiki/Elf%27s_Light_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/97/ElfsLight-FMR-NA-VG.png"
+  },
+  {
+    "id": 308,
+    "name": "Beast Fangs",
+    "page": "https://yugipedia.com/wiki/Beast_Fangs_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/71/BeastFangs-FMR-NA-VG.png"
+  },
+  {
+    "id": 309,
+    "name": "Steel Shell",
+    "page": "https://yugipedia.com/wiki/Steel_Shell_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/08/SteelShell-FMR-NA-VG.png"
+  },
+  {
+    "id": 310,
+    "name": "Vile Germs",
+    "page": "https://yugipedia.com/wiki/Vile_Germs_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f9/VileGerms-FMR-NA-VG.png"
+  },
+  {
+    "id": 311,
+    "name": "Black Pendant",
+    "page": "https://yugipedia.com/wiki/Black_Pendant_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/25/BlackPendant-FMR-NA-VG.png"
+  },
+  {
+    "id": 312,
+    "name": "Silver Bow and Arrow",
+    "page": "https://yugipedia.com/wiki/Silver_Bow_and_Arrow_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4a/SilverBowandArrow-FMR-NA-VG.png"
+  },
+  {
+    "id": 313,
+    "name": "Horn of Light",
+    "page": "https://yugipedia.com/wiki/Horn_of_Light_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8e/HornofLight-FMR-NA-VG.png"
+  },
+  {
+    "id": 314,
+    "name": "Horn of the Unicorn",
+    "page": "https://yugipedia.com/wiki/Horn_of_the_Unicorn_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/79/HornoftheUnicorn-FMR-NA-VG.png"
+  },
+  {
+    "id": 315,
+    "name": "Dragon Treasure",
+    "page": "https://yugipedia.com/wiki/Dragon_Treasure_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/eb/DragonTreasure-FMR-NA-VG.png"
+  },
+  {
+    "id": 316,
+    "name": "Electro-whip",
+    "page": "https://yugipedia.com/wiki/Electro-whip_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/43/Electrowhip-FMR-NA-VG.png"
+  },
+  {
+    "id": 317,
+    "name": "Cyber Shield",
+    "page": "https://yugipedia.com/wiki/Cyber_Shield_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/46/CyberShield-FMR-NA-VG.png"
+  },
+  {
+    "id": 319,
+    "name": "Mystical Moon",
+    "page": "https://yugipedia.com/wiki/Mystical_Moon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/32/MysticalMoon-FMR-NA-VG.png"
+  },
+  {
+    "id": 320,
+    "name": "Stop Defense",
+    "page": "https://yugipedia.com/wiki/Stop_Defense_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d5/StopDefense-FMR-NA-VG.png"
+  },
+  {
+    "id": 321,
+    "name": "Malevolent Nuzzler",
+    "page": "https://yugipedia.com/wiki/Malevolent_Nuzzler_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/32/MalevolentNuzzler-FMR-NA-VG.png"
+  },
+  {
+    "id": 322,
+    "name": "Violet Crystal",
+    "page": "https://yugipedia.com/wiki/Violet_Crystal_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/df/VioletCrystal-FMR-NA-VG.png"
+  },
+  {
+    "id": 323,
+    "name": "Book of Secret Arts",
+    "page": "https://yugipedia.com/wiki/Book_of_Secret_Arts_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a4/BookofSecretArts-FMR-NA-VG.png"
+  },
+  {
+    "id": 324,
+    "name": "Invigoration",
+    "page": "https://yugipedia.com/wiki/Invigoration_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/11/Invigoration-FMR-NA-VG.png"
+  },
+  {
+    "id": 325,
+    "name": "Machine Conversion Factory",
+    "page": "https://yugipedia.com/wiki/Machine_Conversion_Factory_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8f/MachineConversionFactory-FMR-NA-VG.png"
+  },
+  {
+    "id": 326,
+    "name": "Raise Body Heat",
+    "page": "https://yugipedia.com/wiki/Raise_Body_Heat_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/47/RaiseBodyHeat-FMR-NA-VG.png"
+  },
+  {
+    "id": 327,
+    "name": "Follow Wind",
+    "page": "https://yugipedia.com/wiki/Follow_Wind_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/73/FollowWind-FMR-NA-VG.png"
+  },
+  {
+    "id": 328,
+    "name": "Power of Kaishin",
+    "page": "https://yugipedia.com/wiki/Power_of_Kaishin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/df/PowerofKaishin-FMR-NA-VG.png"
+  },
+  {
+    "id": 330,
+    "name": "Forest",
+    "page": "https://yugipedia.com/wiki/Forest_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8e/Forest-FMR-NA-VG.png"
+  },
+  {
+    "id": 331,
+    "name": "Wasteland",
+    "page": "https://yugipedia.com/wiki/Wasteland_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/1e/Wasteland-FMR-NA-VG.png"
+  },
+  {
+    "id": 332,
+    "name": "Mountain",
+    "page": "https://yugipedia.com/wiki/Mountain_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/87/Mountain-FMR-NA-VG.png"
+  },
+  {
+    "id": 333,
+    "name": "Sogen",
+    "page": "https://yugipedia.com/wiki/Sogen_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/35/Sogen-FMR-NA-VG.png"
+  },
+  {
+    "id": 334,
+    "name": "Umi",
+    "page": "https://yugipedia.com/wiki/Umi_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b7/Umi-FMR-NA-VG.png"
+  },
+  {
+    "id": 335,
+    "name": "Yami",
+    "page": "https://yugipedia.com/wiki/Yami_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e3/Yami-FMR-NA-VG.png"
+  },
+  {
+    "id": 336,
+    "name": "Dark Hole",
+    "page": "https://yugipedia.com/wiki/Dark_Hole_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/68/DarkHole-FMR-NA-VG.png"
+  },
+  {
+    "id": 337,
+    "name": "Raigeki",
+    "page": "https://yugipedia.com/wiki/Raigeki_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/62/Raigeki-FMR-NA-VG.png"
+  },
+  {
+    "id": 338,
+    "name": "Mooyan Curry",
+    "page": "https://yugipedia.com/wiki/Mooyan_Curry_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/35/MooyanCurry-FMR-NA-VG.png"
+  },
+  {
+    "id": 339,
+    "name": "Red Medicine",
+    "page": "https://yugipedia.com/wiki/Red_Medicine_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b5/RedMedicine-FMR-NA-VG.png"
+  },
+  {
+    "id": 340,
+    "name": "Goblin's Secret Remedy",
+    "page": "https://yugipedia.com/wiki/Goblin%27s_Secret_Remedy_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8e/GoblinsSecretRemedy-FMR-NA-VG.png"
+  },
+  {
+    "id": 341,
+    "name": "Soul of the Pure",
+    "page": "https://yugipedia.com/wiki/Soul_of_the_Pure_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f3/SoulofthePure-FMR-NA-VG.png"
+  },
+  {
+    "id": 342,
+    "name": "Dian Keto the Cure Master",
+    "page": "https://yugipedia.com/wiki/Dian_Keto_the_Cure_Master_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f7/DianKetotheCureMaster-FMR-NA-VG.png"
+  },
+  {
+    "id": 343,
+    "name": "Sparks",
+    "page": "https://yugipedia.com/wiki/Sparks_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/9c/Sparks-FMR-NA-VG.png"
+  },
+  {
+    "id": 344,
+    "name": "Hinotama",
+    "page": "https://yugipedia.com/wiki/Hinotama_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b9/Hinotama-FMR-NA-VG.png"
+  },
+  {
+    "id": 346,
+    "name": "Ookazi",
+    "page": "https://yugipedia.com/wiki/Ookazi_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c5/Ookazi-FMR-NA-VG.png"
+  },
+  {
+    "id": 347,
+    "name": "Tremendous Fire",
+    "page": "https://yugipedia.com/wiki/Tremendous_Fire_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/10/TremendousFire-FMR-NA-VG.png"
+  },
+  {
+    "id": 348,
+    "name": "Swords of Revealing Light",
+    "page": "https://yugipedia.com/wiki/Swords_of_Revealing_Light_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/14/SwordsofRevealingLight-FMR-NA-VG.png"
+  },
+  {
+    "id": 349,
+    "name": "Spellbinding Circle",
+    "page": "https://yugipedia.com/wiki/Spellbinding_Circle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/5f/SpellbindingCircle-FMR-NA-VG.png"
+  },
+  {
+    "id": 350,
+    "name": "Dark-piercing Light",
+    "page": "https://yugipedia.com/wiki/Dark-piercing_Light_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/dc/DarkpiercingLight-FMR-NA-VG.png"
+  },
+  {
+    "id": 355,
+    "name": "Megasonic Eye",
+    "page": "https://yugipedia.com/wiki/Megasonic_Eye_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4f/MegasonicEye-FMR-NA-VG.png"
+  },
+  {
+    "id": 356,
+    "name": "Super War-lion",
+    "page": "https://yugipedia.com/wiki/Super_War-lion_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/cb/SuperWarlion-FMR-NA-VG.png"
+  },
+  {
+    "id": 358,
+    "name": "Seiyaryu",
+    "page": "https://yugipedia.com/wiki/Seiyaryu_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/14/Seiyaryu-FMR-NA-VG.png"
+  },
+  {
+    "id": 360,
+    "name": "Zera The Mant",
+    "page": "https://yugipedia.com/wiki/Zera_The_Mant_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/13/ZeraTheMant-FMR-NA-VG.png"
+  },
+  {
+    "id": 363,
+    "name": "Fairy's Gift",
+    "page": "https://yugipedia.com/wiki/Fairy%27s_Gift_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3d/FairysGift-FMR-NA-VG.png"
+  },
+  {
+    "id": 364,
+    "name": "Black Luster Soldier",
+    "page": "https://yugipedia.com/wiki/Black_Luster_Soldier_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a7/BlackLusterSoldier-FMR-NA-VG.png"
+  },
+  {
+    "id": 366,
+    "name": "Labyrinth Wall",
+    "page": "https://yugipedia.com/wiki/Labyrinth_Wall_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f7/LabyrinthWall-FMR-NA-VG.png"
+  },
+  {
+    "id": 367,
+    "name": "Jirai Gumo",
+    "page": "https://yugipedia.com/wiki/Jirai_Gumo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e9/JiraiGumo-FMR-NA-VG.png"
+  },
+  {
+    "id": 370,
+    "name": "Labyrinth Tank",
+    "page": "https://yugipedia.com/wiki/Labyrinth_Tank_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b8/LabyrinthTank-FMR-NA-VG.png"
+  },
+  {
+    "id": 371,
+    "name": "Sanga of the Thunder",
+    "page": "https://yugipedia.com/wiki/Sanga_of_the_Thunder_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/96/SangaoftheThunder-FMR-NA-VG.png"
+  },
+  {
+    "id": 372,
+    "name": "Kazejin",
+    "page": "https://yugipedia.com/wiki/Kazejin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c2/Kazejin-FMR-NA-VG.png"
+  },
+  {
+    "id": 373,
+    "name": "Suijin",
+    "page": "https://yugipedia.com/wiki/Suijin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3a/Suijin-FMR-NA-VG.png"
+  },
+  {
+    "id": 374,
+    "name": "Gate Guardian",
+    "page": "https://yugipedia.com/wiki/Gate_Guardian_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/51/GateGuardian-FMR-NA-VG.png"
+  },
+  {
+    "id": 375,
+    "name": "Dungeon Worm",
+    "page": "https://yugipedia.com/wiki/Dungeon_Worm_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/65/DungeonWorm-FMR-NA-VG.png"
+  },
+  {
+    "id": 380,
+    "name": "Blue-eyes Ultimate Dragon",
+    "page": "https://yugipedia.com/wiki/Blue-eyes_Ultimate_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/04/BlueeyesUltimateDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 381,
+    "name": "Toon Alligator",
+    "page": "https://yugipedia.com/wiki/Toon_Alligator_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/04/ToonAlligator-FMR-NA-VG.png"
+  },
+  {
+    "id": 382,
+    "name": "Rude Kaiser",
+    "page": "https://yugipedia.com/wiki/Rude_Kaiser_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/61/RudeKaiser-FMR-NA-VG.png"
+  },
+  {
+    "id": 388,
+    "name": "Pendulum Machine",
+    "page": "https://yugipedia.com/wiki/Pendulum_Machine_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/77/PendulumMachine-FMR-NA-VG.png"
+  },
+  {
+    "id": 390,
+    "name": "Launcher Spider",
+    "page": "https://yugipedia.com/wiki/Launcher_Spider_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/91/LauncherSpider-FMR-NA-VG.png"
+  },
+  {
+    "id": 391,
+    "name": "Zoa",
+    "page": "https://yugipedia.com/wiki/Zoa_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/48/Zoa-FMR-NA-VG.png"
+  },
+  {
+    "id": 392,
+    "name": "Metalzoa",
+    "page": "https://yugipedia.com/wiki/Metalzoa_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/01/Metalzoa-FMR-NA-VG.png"
+  },
+  {
+    "id": 394,
+    "name": "Steel Scorpion",
+    "page": "https://yugipedia.com/wiki/Steel_Scorpion_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/69/SteelScorpion-FMR-NA-VG.png"
+  },
+  {
+    "id": 396,
+    "name": "Ocubeam",
+    "page": "https://yugipedia.com/wiki/Ocubeam_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/91/Ocubeam-FMR-NA-VG.png"
+  },
+  {
+    "id": 397,
+    "name": "Leghul",
+    "page": "https://yugipedia.com/wiki/Leghul_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/18/Leghul-FMR-NA-VG.png"
+  },
+  {
+    "id": 400,
+    "name": "Emperor of the Land and Sea",
+    "page": "https://yugipedia.com/wiki/Emperor_of_the_Land_and_Sea_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3d/EmperoroftheLandandSea-FMR-NA-VG.png"
+  },
+  {
+    "id": 403,
+    "name": "Leogun",
+    "page": "https://yugipedia.com/wiki/Leogun_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6f/Leogun-FMR-NA-VG.png"
+  },
+  {
+    "id": 404,
+    "name": "Tatsunootoshigo",
+    "page": "https://yugipedia.com/wiki/Tatsunootoshigo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/89/Tatsunootoshigo-FMR-NA-VG.png"
+  },
+  {
+    "id": 405,
+    "name": "Saber Slasher",
+    "page": "https://yugipedia.com/wiki/Saber_Slasher_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ac/SaberSlasher-FMR-NA-VG.png"
+  },
+  {
+    "id": 406,
+    "name": "Yaiba Robo",
+    "page": "https://yugipedia.com/wiki/Yaiba_Robo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b7/YaibaRobo-FMR-NA-VG.png"
+  },
+  {
+    "id": 407,
+    "name": "Machine King",
+    "page": "https://yugipedia.com/wiki/Machine_King_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6f/MachineKing-FMR-NA-VG.png"
+  },
+  {
+    "id": 408,
+    "name": "Giant Mech-soldier",
+    "page": "https://yugipedia.com/wiki/Giant_Mech-soldier_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/92/GiantMechsoldier-FMR-NA-VG.png"
+  },
+  {
+    "id": 410,
+    "name": "Mechanical Spider",
+    "page": "https://yugipedia.com/wiki/Mechanical_Spider_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f1/MechanicalSpider-FMR-NA-VG.png"
+  },
+  {
+    "id": 411,
+    "name": "Bat",
+    "page": "https://yugipedia.com/wiki/Bat_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/bd/Bat-FMR-NA-VG.png"
+  },
+  {
+    "id": 412,
+    "name": "Giga-tech Wolf",
+    "page": "https://yugipedia.com/wiki/Giga-tech_Wolf_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a0/GigatechWolf-FMR-NA-VG.png"
+  },
+  {
+    "id": 413,
+    "name": "Cyber Soldier",
+    "page": "https://yugipedia.com/wiki/Cyber_Soldier_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c5/CyberSoldier-FMR-NA-VG.png"
+  },
+  {
+    "id": 414,
+    "name": "Shovel Crusher",
+    "page": "https://yugipedia.com/wiki/Shovel_Crusher_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/96/ShovelCrusher-FMR-NA-VG.png"
+  },
+  {
+    "id": 415,
+    "name": "Mechanicalchacer",
+    "page": "https://yugipedia.com/wiki/Mechanicalchacer_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/04/Mechanicalchacer-FMR-NA-VG.png"
+  },
+  {
+    "id": 416,
+    "name": "Blocker",
+    "page": "https://yugipedia.com/wiki/Blocker_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/df/Blocker-FMR-NA-VG.png"
+  },
+  {
+    "id": 418,
+    "name": "Golgoil",
+    "page": "https://yugipedia.com/wiki/Golgoil_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e1/Golgoil-FMR-NA-VG.png"
+  },
+  {
+    "id": 419,
+    "name": "Giganto",
+    "page": "https://yugipedia.com/wiki/Giganto_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8c/Giganto-FMR-NA-VG.png"
+  },
+  {
+    "id": 420,
+    "name": "Cyber-Stein",
+    "page": "https://yugipedia.com/wiki/Cyber-Stein_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b1/CyberStein-FMR-NA-VG.png"
+  },
+  {
+    "id": 421,
+    "name": "Cyber Commander",
+    "page": "https://yugipedia.com/wiki/Cyber_Commander_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4e/CyberCommander-FMR-NA-VG.png"
+  },
+  {
+    "id": 422,
+    "name": "Jinzo #7",
+    "page": "https://yugipedia.com/wiki/Jinzo_7_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ac/Jinzo7-FMR-NA-VG.png"
+  },
+  {
+    "id": 423,
+    "name": "Dice Armadillo",
+    "page": "https://yugipedia.com/wiki/Dice_Armadillo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6c/DiceArmadillo-FMR-NA-VG.png"
+  },
+  {
+    "id": 429,
+    "name": "Goddess of Whim",
+    "page": "https://yugipedia.com/wiki/Goddess_of_Whim_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d1/GoddessofWhim-FMR-NA-VG.png"
+  },
+  {
+    "id": 433,
+    "name": "Ancient Elf",
+    "page": "https://yugipedia.com/wiki/Ancient_Elf_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ac/AncientElf-FMR-NA-VG.png"
+  },
+  {
+    "id": 436,
+    "name": "White Dolphin",
+    "page": "https://yugipedia.com/wiki/White_Dolphin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f5/WhiteDolphin-FMR-NA-VG.png"
+  },
+  {
+    "id": 437,
+    "name": "Deepsea Shark",
+    "page": "https://yugipedia.com/wiki/Deepsea_Shark_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/56/DeepseaShark-FMR-NA-VG.png"
+  },
+  {
+    "id": 438,
+    "name": "Metal Fish",
+    "page": "https://yugipedia.com/wiki/Metal_Fish_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/71/MetalFish-FMR-NA-VG.png"
+  },
+  {
+    "id": 439,
+    "name": "Bottom Dweller",
+    "page": "https://yugipedia.com/wiki/Bottom_Dweller_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/5d/BottomDweller-FMR-NA-VG.png"
+  },
+  {
+    "id": 440,
+    "name": "7 Colored Fish",
+    "page": "https://yugipedia.com/wiki/7_Colored_Fish_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/40/7ColoredFish-FMR-NA-VG.png"
+  },
+  {
+    "id": 441,
+    "name": "Mech Bass",
+    "page": "https://yugipedia.com/wiki/Mech_Bass_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c6/MechBass-FMR-NA-VG.png"
+  },
+  {
+    "id": 447,
+    "name": "Giant Red Seasnake",
+    "page": "https://yugipedia.com/wiki/Giant_Red_Seasnake_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/86/GiantRedSeasnake-FMR-NA-VG.png"
+  },
+  {
+    "id": 453,
+    "name": "Millennium Golem",
+    "page": "https://yugipedia.com/wiki/Millennium_Golem_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/9e/MillenniumGolem-FMR-NA-VG.png"
+  },
+  {
+    "id": 454,
+    "name": "Destroyer Golem",
+    "page": "https://yugipedia.com/wiki/Destroyer_Golem_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e9/DestroyerGolem-FMR-NA-VG.png"
+  },
+  {
+    "id": 455,
+    "name": "Barrel Rock",
+    "page": "https://yugipedia.com/wiki/Barrel_Rock_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/86/BarrelRock-FMR-NA-VG.png"
+  },
+  {
+    "id": 456,
+    "name": "Minomushi Warrior",
+    "page": "https://yugipedia.com/wiki/Minomushi_Warrior_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/64/MinomushiWarrior-FMR-NA-VG.png"
+  },
+  {
+    "id": 457,
+    "name": "Stone Ghost",
+    "page": "https://yugipedia.com/wiki/Stone_Ghost_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/50/StoneGhost-FMR-NA-VG.png"
+  },
+  {
+    "id": 458,
+    "name": "Kaminari Attack",
+    "page": "https://yugipedia.com/wiki/Kaminari_Attack_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/96/KaminariAttack-FMR-NA-VG.png"
+  },
+  {
+    "id": 459,
+    "name": "Tripwire Beast",
+    "page": "https://yugipedia.com/wiki/Tripwire_Beast_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/25/TripwireBeast-FMR-NA-VG.png"
+  },
+  {
+    "id": 460,
+    "name": "Bolt Escargot",
+    "page": "https://yugipedia.com/wiki/Bolt_Escargot_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d5/BoltEscargot-FMR-NA-VG.png"
+  },
+  {
+    "id": 461,
+    "name": "Bolt Penguin",
+    "page": "https://yugipedia.com/wiki/Bolt_Penguin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/43/BoltPenguin-FMR-NA-VG.png"
+  },
+  {
+    "id": 462,
+    "name": "The Immortal of Thunder",
+    "page": "https://yugipedia.com/wiki/The_Immortal_of_Thunder_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/18/TheImmortalofThunder-FMR-NA-VG.png"
+  },
+  {
+    "id": 463,
+    "name": "Electric Snake",
+    "page": "https://yugipedia.com/wiki/Electric_Snake_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/28/ElectricSnake-FMR-NA-VG.png"
+  },
+  {
+    "id": 464,
+    "name": "Wing Eagle",
+    "page": "https://yugipedia.com/wiki/Wing_Eagle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/23/WingEagle-FMR-NA-VG.png"
+  },
+  {
+    "id": 465,
+    "name": "Punished Eagle",
+    "page": "https://yugipedia.com/wiki/Punished_Eagle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4c/PunishedEagle-FMR-NA-VG.png"
+  },
+  {
+    "id": 466,
+    "name": "Skull Red Bird",
+    "page": "https://yugipedia.com/wiki/Skull_Red_Bird_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8e/SkullRedBird-FMR-NA-VG.png"
+  },
+  {
+    "id": 467,
+    "name": "Crimson Sunbird",
+    "page": "https://yugipedia.com/wiki/Crimson_Sunbird_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/71/CrimsonSunbird-FMR-NA-VG.png"
+  },
+  {
+    "id": 473,
+    "name": "Vermillion Sparrow",
+    "page": "https://yugipedia.com/wiki/Vermillion_Sparrow_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/fd/VermillionSparrow-FMR-NA-VG.png"
+  },
+  {
+    "id": 475,
+    "name": "Sinister Serpent",
+    "page": "https://yugipedia.com/wiki/Sinister_Serpent_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/96/SinisterSerpent-FMR-NA-VG.png"
+  },
+  {
+    "id": 476,
+    "name": "Ganigumo",
+    "page": "https://yugipedia.com/wiki/Ganigumo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a1/Ganigumo-FMR-NA-VG.png"
+  },
+  {
+    "id": 477,
+    "name": "Alinsection",
+    "page": "https://yugipedia.com/wiki/Alinsection_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/ba/Alinsection-FMR-NA-VG.png"
+  },
+  {
+    "id": 478,
+    "name": "Insect Soldiers of the Sky",
+    "page": "https://yugipedia.com/wiki/Insect_Soldiers_of_the_Sky_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b1/InsectSoldiersoftheSky-FMR-NA-VG.png"
+  },
+  {
+    "id": 479,
+    "name": "Cockroach Knight",
+    "page": "https://yugipedia.com/wiki/Cockroach_Knight_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/94/CockroachKnight-FMR-NA-VG.png"
+  },
+  {
+    "id": 480,
+    "name": "Kuwagata \u03b1",
+    "page": "https://yugipedia.com/wiki/Kuwagata_%CE%B1_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/63/Kuwagata%CE%B1-FMR-NA-VG.png"
+  },
+  {
+    "id": 482,
+    "name": "Pragtical",
+    "page": "https://yugipedia.com/wiki/Pragtical_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8b/Pragtical-FMR-NA-VG.png"
+  },
+  {
+    "id": 483,
+    "name": "Garvas",
+    "page": "https://yugipedia.com/wiki/Garvas_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/70/Garvas-FMR-NA-VG.png"
+  },
+  {
+    "id": 485,
+    "name": "Korogashi",
+    "page": "https://yugipedia.com/wiki/Korogashi_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/be/Korogashi-FMR-NA-VG.png"
+  },
+  {
+    "id": 487,
+    "name": "Flower Wolf",
+    "page": "https://yugipedia.com/wiki/Flower_Wolf_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/df/FlowerWolf-FMR-NA-VG.png"
+  },
+  {
+    "id": 491,
+    "name": "Peacock",
+    "page": "https://yugipedia.com/wiki/Peacock_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/7d/Peacock-FMR-NA-VG.png"
+  },
+  {
+    "id": 493,
+    "name": "Maha Vailo",
+    "page": "https://yugipedia.com/wiki/Maha_Vailo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b5/MahaVailo-FMR-NA-VG.png"
+  },
+  {
+    "id": 494,
+    "name": "Rainbow Marine Mermaid",
+    "page": "https://yugipedia.com/wiki/Rainbow_Marine_Mermaid_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/59/RainbowMarineMermaid-FMR-NA-VG.png"
+  },
+  {
+    "id": 495,
+    "name": "Musician King",
+    "page": "https://yugipedia.com/wiki/Musician_King_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b2/MusicianKing-FMR-NA-VG.png"
+  },
+  {
+    "id": 496,
+    "name": "Wilmee",
+    "page": "https://yugipedia.com/wiki/Wilmee_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a7/Wilmee-FMR-NA-VG.png"
+  },
+  {
+    "id": 499,
+    "name": "Kattapillar",
+    "page": "https://yugipedia.com/wiki/Kattapillar_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/03/Kattapillar-FMR-NA-VG.png"
+  },
+  {
+    "id": 501,
+    "name": "Man-eater Bug",
+    "page": "https://yugipedia.com/wiki/Man-eater_Bug_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/7d/ManeaterBug-FMR-NA-VG.png"
+  },
+  {
+    "id": 504,
+    "name": "Fungi of the Musk",
+    "page": "https://yugipedia.com/wiki/Fungi_of_the_Musk_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8e/FungioftheMusk-FMR-NA-VG.png"
+  },
+  {
+    "id": 505,
+    "name": "Prisman",
+    "page": "https://yugipedia.com/wiki/Prisman_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/db/Prisman-FMR-NA-VG.png"
+  },
+  {
+    "id": 506,
+    "name": "Gale Dogra",
+    "page": "https://yugipedia.com/wiki/Gale_Dogra_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/48/GaleDogra-FMR-NA-VG.png"
+  },
+  {
+    "id": 507,
+    "name": "Crazy Fish",
+    "page": "https://yugipedia.com/wiki/Crazy_Fish_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/61/CrazyFish-FMR-NA-VG.png"
+  },
+  {
+    "id": 508,
+    "name": "Cyber Saurus",
+    "page": "https://yugipedia.com/wiki/Cyber_Saurus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/94/CyberSaurus-FMR-NA-VG.png"
+  },
+  {
+    "id": 509,
+    "name": "Bracchio-raidus",
+    "page": "https://yugipedia.com/wiki/Bracchio-raidus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/18/Bracchioraidus-FMR-NA-VG.png"
+  },
+  {
+    "id": 512,
+    "name": "Cannon Soldier",
+    "page": "https://yugipedia.com/wiki/Cannon_Soldier_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/fc/CannonSoldier-FMR-NA-VG.png"
+  },
+  {
+    "id": 513,
+    "name": "Guardian of the Throne Room",
+    "page": "https://yugipedia.com/wiki/Guardian_of_the_Throne_Room_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6c/GuardianoftheThroneRoom-FMR-NA-VG.png"
+  },
+  {
+    "id": 514,
+    "name": "Brave Scizzar",
+    "page": "https://yugipedia.com/wiki/Brave_Scizzar_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/2f/BraveScizzar-FMR-NA-VG.png"
+  },
+  {
+    "id": 515,
+    "name": "The Statue of Easter Island",
+    "page": "https://yugipedia.com/wiki/The_Statue_of_Easter_Island_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/22/TheStatueofEasterIsland-FMR-NA-VG.png"
+  },
+  {
+    "id": 516,
+    "name": "Muka Muka",
+    "page": "https://yugipedia.com/wiki/Muka_Muka_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/53/MukaMuka-FMR-NA-VG.png"
+  },
+  {
+    "id": 517,
+    "name": "Sand Stone",
+    "page": "https://yugipedia.com/wiki/Sand_Stone_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/62/SandStone-FMR-NA-VG.png"
+  },
+  {
+    "id": 520,
+    "name": "Turtle Bird",
+    "page": "https://yugipedia.com/wiki/Turtle_Bird_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b8/TurtleBird-FMR-NA-VG.png"
+  },
+  {
+    "id": 521,
+    "name": "Skullbird",
+    "page": "https://yugipedia.com/wiki/Skullbird_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a8/Skullbird-FMR-NA-VG.png"
+  },
+  {
+    "id": 522,
+    "name": "Monstrous Bird",
+    "page": "https://yugipedia.com/wiki/Monstrous_Bird_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e0/MonstrousBird-FMR-NA-VG.png"
+  },
+  {
+    "id": 528,
+    "name": "Togex",
+    "page": "https://yugipedia.com/wiki/Togex_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/80/Togex-FMR-NA-VG.png"
+  },
+  {
+    "id": 529,
+    "name": "Flame Cerebrus",
+    "page": "https://yugipedia.com/wiki/Flame_Cerebrus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/bd/FlameCerebrus-FMR-NA-VG.png"
+  },
+  {
+    "id": 531,
+    "name": "Mystical Sand",
+    "page": "https://yugipedia.com/wiki/Mystical_Sand_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/5b/MysticalSand-FMR-NA-VG.png"
+  },
+  {
+    "id": 532,
+    "name": "Gemini Elf",
+    "page": "https://yugipedia.com/wiki/Gemini_Elf_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/68/GeminiElf-FMR-NA-VG.png"
+  },
+  {
+    "id": 533,
+    "name": "Kwagar Hercules",
+    "page": "https://yugipedia.com/wiki/Kwagar_Hercules_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/ca/KwagarHercules-FMR-NA-VG.png"
+  },
+  {
+    "id": 535,
+    "name": "Kamakiriman",
+    "page": "https://yugipedia.com/wiki/Kamakiriman_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/0b/Kamakiriman-FMR-NA-VG.png"
+  },
+  {
+    "id": 536,
+    "name": "Mechaleon",
+    "page": "https://yugipedia.com/wiki/Mechaleon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/78/Mechaleon-FMR-NA-VG.png"
+  },
+  {
+    "id": 537,
+    "name": "Mega Thunderball",
+    "page": "https://yugipedia.com/wiki/Mega_Thunderball_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8b/MegaThunderball-FMR-NA-VG.png"
+  },
+  {
+    "id": 540,
+    "name": "Skelengel",
+    "page": "https://yugipedia.com/wiki/Skelengel_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b9/Skelengel-FMR-NA-VG.png"
+  },
+  {
+    "id": 542,
+    "name": "Misairuzame",
+    "page": "https://yugipedia.com/wiki/Misairuzame_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/7c/Misairuzame-FMR-NA-VG.png"
+  },
+  {
+    "id": 543,
+    "name": "Tongyo",
+    "page": "https://yugipedia.com/wiki/Tongyo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/81/Tongyo-FMR-NA-VG.png"
+  },
+  {
+    "id": 544,
+    "name": "Dharma Cannon",
+    "page": "https://yugipedia.com/wiki/Dharma_Cannon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/35/DharmaCannon-FMR-NA-VG.png"
+  },
+  {
+    "id": 546,
+    "name": "Wow Warrior",
+    "page": "https://yugipedia.com/wiki/Wow_Warrior_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c2/WowWarrior-FMR-NA-VG.png"
+  },
+  {
+    "id": 551,
+    "name": "Dark Elf",
+    "page": "https://yugipedia.com/wiki/Dark_Elf_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d3/DarkElf-FMR-NA-VG.png"
+  },
+  {
+    "id": 557,
+    "name": "Steel Ogre Grotto #1",
+    "page": "https://yugipedia.com/wiki/Steel_Ogre_Grotto_1_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/de/SteelOgreGrotto1-FMR-NA-VG.png"
+  },
+  {
+    "id": 558,
+    "name": "Pot the Trick",
+    "page": "https://yugipedia.com/wiki/Pot_the_Trick_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/bf/PottheTrick-FMR-NA-VG.png"
+  },
+  {
+    "id": 562,
+    "name": "Needle Worm",
+    "page": "https://yugipedia.com/wiki/Needle_Worm_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/41/NeedleWorm-FMR-NA-VG.png"
+  },
+  {
+    "id": 564,
+    "name": "Great Mammoth of Goldfine",
+    "page": "https://yugipedia.com/wiki/Great_Mammoth_of_Goldfine_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/37/GreatMammothofGoldfine-FMR-NA-VG.png"
+  },
+  {
+    "id": 565,
+    "name": "Man-eating Black Shark",
+    "page": "https://yugipedia.com/wiki/Man-eating_Black_Shark_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/9c/ManeatingBlackShark-FMR-NA-VG.png"
+  },
+  {
+    "id": 566,
+    "name": "Yormungarde",
+    "page": "https://yugipedia.com/wiki/Yormungarde_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/26/Yormungarde-FMR-NA-VG.png"
+  },
+  {
+    "id": 568,
+    "name": "Anthrosaurus",
+    "page": "https://yugipedia.com/wiki/Anthrosaurus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a9/Anthrosaurus-FMR-NA-VG.png"
+  },
+  {
+    "id": 569,
+    "name": "Drooling Lizard",
+    "page": "https://yugipedia.com/wiki/Drooling_Lizard_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/62/DroolingLizard-FMR-NA-VG.png"
+  },
+  {
+    "id": 570,
+    "name": "Trakadon",
+    "page": "https://yugipedia.com/wiki/Trakadon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/40/Trakadon-FMR-NA-VG.png"
+  },
+  {
+    "id": 573,
+    "name": "Little D",
+    "page": "https://yugipedia.com/wiki/Little_D_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/1b/LittleD-FMR-NA-VG.png"
+  },
+  {
+    "id": 575,
+    "name": "Ancient One of the Deep Forest",
+    "page": "https://yugipedia.com/wiki/Ancient_One_of_the_Deep_Forest_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d0/AncientOneoftheDeepForest-FMR-NA-VG.png"
+  },
+  {
+    "id": 576,
+    "name": "Giant Scorpion of the Tundra",
+    "page": "https://yugipedia.com/wiki/Giant_Scorpion_of_the_Tundra_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/9b/GiantScorpionoftheTundra-FMR-NA-VG.png"
+  },
+  {
+    "id": 577,
+    "name": "Crow Goblin",
+    "page": "https://yugipedia.com/wiki/Crow_Goblin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6d/CrowGoblin-FMR-NA-VG.png"
+  },
+  {
+    "id": 580,
+    "name": "Patrol Robo",
+    "page": "https://yugipedia.com/wiki/Patrol_Robo_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/ee/PatrolRobo-FMR-NA-VG.png"
+  },
+  {
+    "id": 581,
+    "name": "Takuhee",
+    "page": "https://yugipedia.com/wiki/Takuhee_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/68/Takuhee-FMR-NA-VG.png"
+  },
+  {
+    "id": 582,
+    "name": "Dark Witch",
+    "page": "https://yugipedia.com/wiki/Dark_Witch_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ae/DarkWitch-FMR-NA-VG.png"
+  },
+  {
+    "id": 584,
+    "name": "Binding Chain",
+    "page": "https://yugipedia.com/wiki/Binding_Chain_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3e/BindingChain-FMR-NA-VG.png"
+  },
+  {
+    "id": 585,
+    "name": "Mechanical Snail",
+    "page": "https://yugipedia.com/wiki/Mechanical_Snail_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/7c/MechanicalSnail-FMR-NA-VG.png"
+  },
+  {
+    "id": 587,
+    "name": "Mon Larvas",
+    "page": "https://yugipedia.com/wiki/Mon_Larvas_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/30/MonLarvas-FMR-NA-VG.png"
+  },
+  {
+    "id": 590,
+    "name": "Beaked Snake",
+    "page": "https://yugipedia.com/wiki/Beaked_Snake_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d4/BeakedSnake-FMR-NA-VG.png"
+  },
+  {
+    "id": 591,
+    "name": "Morphing Jar",
+    "page": "https://yugipedia.com/wiki/Morphing_Jar_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/05/MorphingJar-FMR-NA-VG.png"
+  },
+  {
+    "id": 592,
+    "name": "Muse-A",
+    "page": "https://yugipedia.com/wiki/Muse-A_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/db/MuseA-FMR-NA-VG.png"
+  },
+  {
+    "id": 594,
+    "name": "Rose Spectre of Dunn",
+    "page": "https://yugipedia.com/wiki/Rose_Spectre_of_Dunn_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/08/RoseSpectreofDunn-FMR-NA-VG.png"
+  },
+  {
+    "id": 597,
+    "name": "Pale Beast",
+    "page": "https://yugipedia.com/wiki/Pale_Beast_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/59/PaleBeast-FMR-NA-VG.png"
+  },
+  {
+    "id": 607,
+    "name": "Great Bill",
+    "page": "https://yugipedia.com/wiki/Great_Bill_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/9d/GreatBill-FMR-NA-VG.png"
+  },
+  {
+    "id": 608,
+    "name": "Shining Friendship",
+    "page": "https://yugipedia.com/wiki/Shining_Friendship_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4f/ShiningFriendship-FMR-NA-VG.png"
+  },
+  {
+    "id": 609,
+    "name": "Bladefly",
+    "page": "https://yugipedia.com/wiki/Bladefly_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/35/Bladefly-FMR-NA-VG.png"
+  },
+  {
+    "id": 610,
+    "name": "Electric Lizard",
+    "page": "https://yugipedia.com/wiki/Electric_Lizard_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/46/ElectricLizard-FMR-NA-VG.png"
+  },
+  {
+    "id": 613,
+    "name": "Twin-headed Thunder Dragon",
+    "page": "https://yugipedia.com/wiki/Twin-headed_Thunder_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/08/TwinheadedThunderDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 614,
+    "name": "Hunter Spider",
+    "page": "https://yugipedia.com/wiki/Hunter_Spider_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/72/HunterSpider-FMR-NA-VG.png"
+  },
+  {
+    "id": 616,
+    "name": "Hourglass of Courage",
+    "page": "https://yugipedia.com/wiki/Hourglass_of_Courage_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/3c/HourglassofCourage-FMR-NA-VG.png"
+  },
+  {
+    "id": 617,
+    "name": "Marine Beast",
+    "page": "https://yugipedia.com/wiki/Marine_Beast_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4c/MarineBeast-FMR-NA-VG.png"
+  },
+  {
+    "id": 619,
+    "name": "Rock Spirit",
+    "page": "https://yugipedia.com/wiki/Rock_Spirit_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/fd/RockSpirit-FMR-NA-VG.png"
+  },
+  {
+    "id": 622,
+    "name": "Ill Witch",
+    "page": "https://yugipedia.com/wiki/Ill_Witch_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f3/IllWitch-FMR-NA-VG.png"
+  },
+  {
+    "id": 623,
+    "name": "The Thing That Hides In the Mud",
+    "page": "https://yugipedia.com/wiki/The_Thing_That_Hides_In_the_Mud_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6f/TheThingThatHidesIntheMud-FMR-NA-VG.png"
+  },
+  {
+    "id": 626,
+    "name": "Amazon of the Seas",
+    "page": "https://yugipedia.com/wiki/Amazon_of_the_Seas_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/97/AmazonoftheSeas-FMR-NA-VG.png"
+  },
+  {
+    "id": 627,
+    "name": "Nekogal #2",
+    "page": "https://yugipedia.com/wiki/Nekogal_2_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e6/Nekogal2-FMR-NA-VG.png"
+  },
+  {
+    "id": 630,
+    "name": "Ancient Lizard Warrior",
+    "page": "https://yugipedia.com/wiki/Ancient_Lizard_Warrior_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/56/AncientLizardWarrior-FMR-NA-VG.png"
+  },
+  {
+    "id": 631,
+    "name": "Maiden of the Moonlight",
+    "page": "https://yugipedia.com/wiki/Maiden_of_the_Moonlight_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/15/MaidenoftheMoonlight-FMR-NA-VG.png"
+  },
+  {
+    "id": 632,
+    "name": "Stone Ogre Grotto",
+    "page": "https://yugipedia.com/wiki/Stone_Ogre_Grotto_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/60/StoneOgreGrotto-FMR-NA-VG.png"
+  },
+  {
+    "id": 633,
+    "name": "Winged Egg of New Life",
+    "page": "https://yugipedia.com/wiki/Winged_Egg_of_New_Life_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/fd/WingedEggofNewLife-FMR-NA-VG.png"
+  },
+  {
+    "id": 636,
+    "name": "Blue-winged Crown",
+    "page": "https://yugipedia.com/wiki/Blue-winged_Crown_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e5/BluewingedCrown-FMR-NA-VG.png"
+  },
+  {
+    "id": 638,
+    "name": "Queen of Autumn Leaves",
+    "page": "https://yugipedia.com/wiki/Queen_of_Autumn_Leaves_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e7/QueenofAutumnLeaves-FMR-NA-VG.png"
+  },
+  {
+    "id": 639,
+    "name": "Amphibious Bugroth",
+    "page": "https://yugipedia.com/wiki/Amphibious_Bugroth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/07/AmphibiousBugroth-FMR-NA-VG.png"
+  },
+  {
+    "id": 640,
+    "name": "Acid Crawler",
+    "page": "https://yugipedia.com/wiki/Acid_Crawler_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/be/AcidCrawler-FMR-NA-VG.png"
+  },
+  {
+    "id": 643,
+    "name": "Disk Magician",
+    "page": "https://yugipedia.com/wiki/Disk_Magician_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/90/DiskMagician-FMR-NA-VG.png"
+  },
+  {
+    "id": 645,
+    "name": "Royal Guard",
+    "page": "https://yugipedia.com/wiki/Royal_Guard_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/48/RoyalGuard-FMR-NA-VG.png"
+  },
+  {
+    "id": 648,
+    "name": "Machine Attacker",
+    "page": "https://yugipedia.com/wiki/Machine_Attacker_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/db/MachineAttacker-FMR-NA-VG.png"
+  },
+  {
+    "id": 651,
+    "name": "Kunai with Chain",
+    "page": "https://yugipedia.com/wiki/Kunai_with_Chain_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b9/KunaiwithChain-FMR-NA-VG.png"
+  },
+  {
+    "id": 652,
+    "name": "Magical Labyrinth",
+    "page": "https://yugipedia.com/wiki/Magical_Labyrinth_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/49/MagicalLabyrinth-FMR-NA-VG.png"
+  },
+  {
+    "id": 654,
+    "name": "Salamandra",
+    "page": "https://yugipedia.com/wiki/Salamandra_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/87/Salamandra-FMR-NA-VG.png"
+  },
+  {
+    "id": 655,
+    "name": "Cursebreaker",
+    "page": "https://yugipedia.com/wiki/Cursebreaker_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/0c/Cursebreaker-FMR-NA-VG.png"
+  },
+  {
+    "id": 656,
+    "name": "Eternal Rest",
+    "page": "https://yugipedia.com/wiki/Eternal_Rest_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e3/EternalRest-FMR-NA-VG.png"
+  },
+  {
+    "id": 657,
+    "name": "Megamorph",
+    "page": "https://yugipedia.com/wiki/Megamorph_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/7b/Megamorph-FMR-NA-VG.png"
+  },
+  {
+    "id": 658,
+    "name": "Metalmorph",
+    "page": "https://yugipedia.com/wiki/Metalmorph_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ab/Metalmorph-FMR-NA-VG.png"
+  },
+  {
+    "id": 659,
+    "name": "Winged Trumpeter",
+    "page": "https://yugipedia.com/wiki/Winged_Trumpeter_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/21/WingedTrumpeter-FMR-NA-VG.png"
+  },
+  {
+    "id": 660,
+    "name": "Stain Storm",
+    "page": "https://yugipedia.com/wiki/Stain_Storm_%28FMR%29",
+    "url": "https://ms.yugipedia.com//9/95/StainStorm-FMR-NA-VG.png"
+  },
+  {
+    "id": 661,
+    "name": "Crush Card",
+    "page": "https://yugipedia.com/wiki/Crush_Card_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8d/CrushCard-FMR-NA-VG.png"
+  },
+  {
+    "id": 662,
+    "name": "Eradicating Aerosol",
+    "page": "https://yugipedia.com/wiki/Eradicating_Aerosol_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/db/EradicatingAerosol-FMR-NA-VG.png"
+  },
+  {
+    "id": 663,
+    "name": "Breath of Light",
+    "page": "https://yugipedia.com/wiki/Breath_of_Light_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/5a/BreathofLight-FMR-NA-VG.png"
+  },
+  {
+    "id": 664,
+    "name": "Eternal Draught",
+    "page": "https://yugipedia.com/wiki/Eternal_Draught_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a5/EternalDraught-FMR-NA-VG.png"
+  },
+  {
+    "id": 665,
+    "name": "Curse of Millennium Shield",
+    "page": "https://yugipedia.com/wiki/Curse_of_Millennium_Shield_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/18/CurseofMillenniumShield-FMR-NA-VG.png"
+  },
+  {
+    "id": 666,
+    "name": "Yamadron Ritual",
+    "page": "https://yugipedia.com/wiki/Yamadron_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/eb/YamadronRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 667,
+    "name": "Gate Guardian Ritual",
+    "page": "https://yugipedia.com/wiki/Gate_Guardian_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ae/GateGuardianRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 668,
+    "name": "Bright Castle",
+    "page": "https://yugipedia.com/wiki/Bright_Castle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/58/BrightCastle-FMR-NA-VG.png"
+  },
+  {
+    "id": 669,
+    "name": "Shadow Spell",
+    "page": "https://yugipedia.com/wiki/Shadow_Spell_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/83/ShadowSpell-FMR-NA-VG.png"
+  },
+  {
+    "id": 670,
+    "name": "Black Luster Ritual",
+    "page": "https://yugipedia.com/wiki/Black_Luster_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/8f/BlackLusterRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 671,
+    "name": "Zera Ritual",
+    "page": "https://yugipedia.com/wiki/Zera_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/4b/ZeraRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 672,
+    "name": "Harpie's Feather Duster",
+    "page": "https://yugipedia.com/wiki/Harpie%27s_Feather_Duster_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b5/HarpiesFeatherDuster-FMR-NA-VG.png"
+  },
+  {
+    "id": 673,
+    "name": "War-lion Ritual",
+    "page": "https://yugipedia.com/wiki/War-lion_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/83/WarlionRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 674,
+    "name": "Beastry Mirror Ritual",
+    "page": "https://yugipedia.com/wiki/Beastry_Mirror_Ritual",
+    "url": "https://ms.yugipedia.com//1/1c/BeastryMirrorRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 675,
+    "name": "Ultimate Dragon",
+    "page": "https://yugipedia.com/wiki/Ultimate_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/16/UltimateDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 676,
+    "name": "Commencement Dance",
+    "page": "https://yugipedia.com/wiki/Commencement_Dance_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/b0/CommencementDance-FMR-NA-VG.png"
+  },
+  {
+    "id": 677,
+    "name": "Hamburger Recipe",
+    "page": "https://yugipedia.com/wiki/Hamburger_Recipe_%28FMR%29",
+    "url": "https://ms.yugipedia.com//0/00/HamburgerRecipe-FMR-NA-VG.png"
+  },
+  {
+    "id": 678,
+    "name": "Revival of Sennen Genjin",
+    "page": "https://yugipedia.com/wiki/Revival_of_Sennen_Genjin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a6/RevivalofSennenGenjin-FMR-NA-VG.png"
+  },
+  {
+    "id": 679,
+    "name": "Novox's Prayer",
+    "page": "https://yugipedia.com/wiki/Novox%27s_Prayer_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/46/NovoxsPrayer-FMR-NA-VG.png"
+  },
+  {
+    "id": 680,
+    "name": "Curse of Tri-Horned Dragon",
+    "page": "https://yugipedia.com/wiki/Curse_of_Tri-Horned_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f8/CurseofTriHornedDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 682,
+    "name": "Eatgaboon",
+    "page": "https://yugipedia.com/wiki/Eatgaboon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/df/Eatgaboon-FMR-NA-VG.png"
+  },
+  {
+    "id": 683,
+    "name": "Bear Trap",
+    "page": "https://yugipedia.com/wiki/Bear_Trap_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/df/BearTrap-FMR-NA-VG.png"
+  },
+  {
+    "id": 685,
+    "name": "Acid Trap Hole",
+    "page": "https://yugipedia.com/wiki/Acid_Trap_Hole_%28FMR%29",
+    "url": "https://ms.yugipedia.com//2/2e/AcidTrapHole-FMR-NA-VG.png"
+  },
+  {
+    "id": 687,
+    "name": "Goblin Fan",
+    "page": "https://yugipedia.com/wiki/Goblin_Fan_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6b/GoblinFan-FMR-NA-VG.png"
+  },
+  {
+    "id": 688,
+    "name": "Bad Reaction to Simochi",
+    "page": "https://yugipedia.com/wiki/Bad_Reaction_to_Simochi_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/18/BadReactiontoSimochi-FMR-NA-VG.png"
+  },
+  {
+    "id": 690,
+    "name": "Fake Trap",
+    "page": "https://yugipedia.com/wiki/Fake_Trap_%28FMR%29",
+    "url": "https://ms.yugipedia.com//1/11/FakeTrap-FMR-NA-VG.png"
+  },
+  {
+    "id": 691,
+    "name": "Revived of Serpent Night Dragon",
+    "page": "https://yugipedia.com/wiki/Revived_of_Serpent_Night_Dragon",
+    "url": "https://ms.yugipedia.com//a/a3/RevivedofSerpentNightDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 692,
+    "name": "Turtle Oath",
+    "page": "https://yugipedia.com/wiki/Turtle_Oath_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ac/TurtleOath-FMR-NA-VG.png"
+  },
+  {
+    "id": 693,
+    "name": "Contruct of Mask",
+    "page": "https://yugipedia.com/wiki/Contruct_of_Mask",
+    "url": "https://ms.yugipedia.com//d/d6/ContructofMask-FMR-NA-VG.png"
+  },
+  {
+    "id": 694,
+    "name": "Resurrection of Chakra",
+    "page": "https://yugipedia.com/wiki/Resurrection_of_Chakra_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e8/ResurrectionofChakra-FMR-NA-VG.png"
+  },
+  {
+    "id": 695,
+    "name": "Puppet Ritual",
+    "page": "https://yugipedia.com/wiki/Puppet_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//3/32/PuppetRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 696,
+    "name": "Javelin Beetle Pact",
+    "page": "https://yugipedia.com/wiki/Javelin_Beetle_Pact_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/e0/JavelinBeetlePact-FMR-NA-VG.png"
+  },
+  {
+    "id": 697,
+    "name": "Garma Sword Oath",
+    "page": "https://yugipedia.com/wiki/Garma_Sword_Oath_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/75/GarmaSwordOath-FMR-NA-VG.png"
+  },
+  {
+    "id": 698,
+    "name": "Cosmo Queen's Prayer",
+    "page": "https://yugipedia.com/wiki/Cosmo_Queen%27s_Prayer_%28FMR%29",
+    "url": "https://ms.yugipedia.com//b/ba/CosmoQueensPrayer-FMR-NA-VG.png"
+  },
+  {
+    "id": 699,
+    "name": "Revival of Skeleton Rider",
+    "page": "https://yugipedia.com/wiki/Revival_of_Skeleton_Rider_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/ae/RevivalofSkeletonRider-FMR-NA-VG.png"
+  },
+  {
+    "id": 700,
+    "name": "Fortress Whale's Oath",
+    "page": "https://yugipedia.com/wiki/Fortress_Whale%27s_Oath_%28FMR%29",
+    "url": "https://ms.yugipedia.com//6/6a/FortressWhalesOath-FMR-NA-VG.png"
+  },
+  {
+    "id": 703,
+    "name": "Sengenjin",
+    "page": "https://yugipedia.com/wiki/Sengenjin_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d1/Sengenjin-FMR-NA-VG.png"
+  },
+  {
+    "id": 705,
+    "name": "Tri-horned Dragon",
+    "page": "https://yugipedia.com/wiki/Tri-horned_Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a9/TrihornedDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 707,
+    "name": "Skull Knight",
+    "page": "https://yugipedia.com/wiki/Skull_Knight_%28FMR%29",
+    "url": "https://ms.yugipedia.com//4/40/SkullKnight-FMR-NA-VG.png"
+  },
+  {
+    "id": 708,
+    "name": "Cosmo Queen",
+    "page": "https://yugipedia.com/wiki/Cosmo_Queen_%28FMR%29",
+    "url": "https://ms.yugipedia.com//e/ed/CosmoQueen-FMR-NA-VG.png"
+  },
+  {
+    "id": 710,
+    "name": "Crab Turtle",
+    "page": "https://yugipedia.com/wiki/Crab_Turtle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/50/CrabTurtle-FMR-NA-VG.png"
+  },
+  {
+    "id": 713,
+    "name": "Meteor B. Dragon",
+    "page": "https://yugipedia.com/wiki/Meteor_B._Dragon_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c8/MeteorBDragon-FMR-NA-VG.png"
+  },
+  {
+    "id": 714,
+    "name": "Firewing Pegasus",
+    "page": "https://yugipedia.com/wiki/Firewing_Pegasus_%28FMR%29",
+    "url": "https://ms.yugipedia.com//a/a5/FirewingPegasus-FMR-NA-VG.png"
+  },
+  {
+    "id": 716,
+    "name": "Garma Sword",
+    "page": "https://yugipedia.com/wiki/Garma_Sword_%28FMR%29",
+    "url": "https://ms.yugipedia.com//d/d8/GarmaSword-FMR-NA-VG.png"
+  },
+  {
+    "id": 717,
+    "name": "Javelin Beetle",
+    "page": "https://yugipedia.com/wiki/Javelin_Beetle_%28FMR%29",
+    "url": "https://ms.yugipedia.com//5/54/JavelinBeetle-FMR-NA-VG.png"
+  },
+  {
+    "id": 718,
+    "name": "Fortress Whale",
+    "page": "https://yugipedia.com/wiki/Fortress_Whale_%28FMR%29",
+    "url": "https://ms.yugipedia.com//f/f1/FortressWhale-FMR-NA-VG.png"
+  },
+  {
+    "id": 720,
+    "name": "Mask of Shine & Dark",
+    "page": "https://yugipedia.com/wiki/Mask_of_Shine_%26_Dark_%28FMR%29",
+    "url": "https://ms.yugipedia.com//c/c2/MaskofShineDark-FMR-NA-VG.png"
+  },
+  {
+    "id": 721,
+    "name": "Dark Magic Ritual",
+    "page": "https://yugipedia.com/wiki/Dark_Magic_Ritual_%28FMR%29",
+    "url": "https://ms.yugipedia.com//7/7b/DarkMagicRitual-FMR-NA-VG.png"
+  },
+  {
+    "id": 722,
+    "name": "Magician of Black Chaos",
+    "page": "https://yugipedia.com/wiki/Magician_of_Black_Chaos_%28FMR%29",
+    "url": "https://ms.yugipedia.com//8/87/MagicianofBlackChaos-FMR-NA-VG.png"
+  }
+]

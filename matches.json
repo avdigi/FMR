@@ -1,0 +1,4413 @@
+[
+  {
+    "file": "019a5a450f194bf71175af01296f2fde.png",
+    "card": 208,
+    "name": "Petit Angel",
+    "recognized": [
+      "Petit Angel",
+      "Petit Angel"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0285f8c1e115cacdd075d9b19a2564b1.png",
+    "card": 518,
+    "name": "Boulder Tortoise",
+    "recognized": [
+      "Boulder Tortoise",
+      "Boulder Tortoise"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "04a8843c20e7478f912a56c309db612c.png",
+    "card": 180,
+    "name": "Arlownay",
+    "recognized": [
+      "Arlownay",
+      "Arlownay"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0539dcb021b471dac1f0d8b00ea45dfb.png",
+    "card": 511,
+    "name": "Bean Soldier",
+    "recognized": [
+      "Bean Soldier",
+      "Bean Soldier"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "053a7b389c543455f84d7826ca78973c.png",
+    "card": 329,
+    "name": "Dragon Capture Jar",
+    "recognized": [
+      "Dragon Capture Jar",
+      "Dragon Capture Jar"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0633a1686f982881ba5fb8ac703a362f.png",
+    "card": 72,
+    "name": "Cocoon of Evolution",
+    "recognized": [
+      "Cocoon of Evolution",
+      "Cocoon of Evolution"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0756ab7a6db9e2ca85752a94143ad9db.png",
+    "card": 195,
+    "name": "Doron",
+    "recognized": [
+      "Doron",
+      "Doron"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0a9bd1a6b00bbd858dd93efc08f04f1b.png",
+    "card": 399,
+    "name": "Swordsman from a Foreign Land",
+    "recognized": [
+      "Swordsman from a Foreign Land",
+      "Scedsman from a Foceizn Land"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0b2fb7581bc82437abd1f0069615c8f0.png",
+    "card": 553,
+    "name": "Mushroom Man #2",
+    "recognized": [
+      "Mushroom Man #2",
+      "Mushroom Man #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0c186ea2b5446b69a1c9bcc829da57a3.png",
+    "card": 140,
+    "name": "Toad Master",
+    "recognized": [
+      "Toad Master",
+      "Toad Master"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0c2637c5e30cadee0adc637f765a0658.png",
+    "card": 169,
+    "name": "Dark King of the Abyss",
+    "recognized": [
+      "Dark King of the Abyss",
+      "Dark King of the Abyss"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0c514df9d70f8dfd7a1eb577f88d41de.png",
+    "card": 270,
+    "name": "Wetha",
+    "recognized": [
+      "Wetha",
+      "Wetha"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0c84060434e20235dbbcacb7bcbbfcf0.png",
+    "card": 295,
+    "name": "Bio Plant",
+    "recognized": [
+      "Bio Plant",
+      "Bio Plant"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0cd97700660446de1ae95d193e5cce67.png",
+    "card": 279,
+    "name": "King Fog",
+    "recognized": [
+      "King Fog",
+      "King Fog"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0e0970df365f7a76ba943b966e2b961a.png",
+    "card": 300,
+    "name": "Kurama",
+    "recognized": [
+      "Kurana",
+      "Kurama"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0e9c79d4843b0121123a183d4030d181.png",
+    "card": 114,
+    "name": "White Magical Hat",
+    "recognized": [
+      "White Magical Hat",
+      "White Magical Hat"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "0f760dca41a4d2407f01afb804e007bb.png",
+    "card": 538,
+    "name": "Niwatori",
+    "recognized": [
+      "Niwatori",
+      "Niwatori"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "0ffde31588c790f456a0f093923ff097.png",
+    "card": 385,
+    "name": "Bickuribox",
+    "recognized": [
+      "Bickuribox",
+      "Bickuribox"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "1248131200cf0f132469191671a20435.png",
+    "card": 629,
+    "name": "Armored Rat",
+    "recognized": [
+      "Arnored Rat",
+      "Armored Rat"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "13b5f3a2fa031203969a5e4628fd0519.png",
+    "card": 711,
+    "name": "Mikazukinoyaiba",
+    "recognized": [
+      "Mikazukinoyaiba",
+      "Mikazukinoyaiba"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "15eb524fe6ff0418aefc865883818a27.png",
+    "card": 104,
+    "name": "Curtain of the Dark Ones",
+    "recognized": [
+      "Curtain of the Dark Ones",
+      "Curtain of the Dark Ones"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "1621b893389ae9373a863a4bececfacb.png",
+    "card": 64,
+    "name": "Tiger Axe",
+    "recognized": [
+      "Tiger Axe",
+      "Tiger Axe"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "1640013f58d1814b3f9256aa01813e14.png",
+    "card": 181,
+    "name": "Dark Shade",
+    "recognized": [
+      "Dark Shade",
+      "Dark Shade"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "16b17484ef2d6de6ea7254b2b4abc764.png",
+    "card": 165,
+    "name": "The Judgement Hand",
+    "recognized": [
+      "The Judgement Hand",
+      "The Judgement Hand"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "18b55011262c1055cb7b5c73fe268d3e.png",
+    "card": 12,
+    "name": "Swamp Battleguard",
+    "recognized": [
+      "Swanp Battleguard",
+      "Swamp Battleguard"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "198db6eddd70ff98d6d7a168945584a9.png",
+    "card": 145,
+    "name": "The Bewitching Phantom Thief",
+    "recognized": [
+      "The Bewitching Phantom Thief",
+      "The Bewitching Phantore Thief"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "19e1c804b7026f5e6073ea7786cda6a4.png",
+    "card": 112,
+    "name": "That Which Feeds on Life",
+    "recognized": [
+      "That Which Feeds on Life",
+      "Thar Which Feeds on Life"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "19edf888e93b636c666ff1779ac1f1ec.png",
+    "card": 709,
+    "name": "Chakra",
+    "recognized": [
+      "Chakra",
+      "Chakra"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "19f1b6040bb26819df260885027612b4.png",
+    "card": 362,
+    "name": "Millennium Shield",
+    "recognized": [
+      "Millennium Shield",
+      "Millennium Shield"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "1ad19c7186c60e0c698c5905d278c63b.png",
+    "card": 22,
+    "name": "Summoned Skull",
+    "recognized": [
+      "Summoned Skull",
+      "Summoned Skull"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "1aebadfc4db89d235a77e683dc4e7e02.png",
+    "card": 525,
+    "name": "Spirit of the Mountain",
+    "recognized": [
+      "Spirit of the Mountain",
+      "Spirit of the Mountain"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "1bea3112be2d1d989a15d9183d50fa0b.png",
+    "card": 689,
+    "name": "Reverse Trap",
+    "recognized": [
+      "Reverse Trap",
+      "Keverse l rap"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "1db8f7c95ab3275819e872cc36bdc3ba.png",
+    "card": 386,
+    "name": "Harpie's Pet Dragon",
+    "recognized": [
+      "Harpie's Pet Dragon",
+      "Harpie's Pet Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "1ddca112076dc12176e0fa3463028a01.png",
+    "card": 235,
+    "name": "Wodan the Resident of the Forest",
+    "recognized": [
+      "Wodan the Resident of the Forest",
+      "Noden che Residcat ef the Frest"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "1fcf0d971e58827c24e904b56fb86e52.png",
+    "card": 589,
+    "name": "Tentacle Plant",
+    "recognized": [
+      "Tentacle Plant",
+      "Tentacle Plant"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "20882eaca193d13622c3eed7a8c9cc9a.png",
+    "card": 239,
+    "name": "Vishwar Randi",
+    "recognized": [
+      "Vishwar Randi",
+      "Vishwar Randi"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2188dc9bbf3b2a4e30a20d8b0067c6a4.png",
+    "card": 226,
+    "name": "Skull Stalker",
+    "recognized": [
+      "Skull Stalker",
+      "Skull Stalker"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "22607c6e06fc7897f64424408110af80.png",
+    "card": 548,
+    "name": "Bone Mouse",
+    "recognized": [
+      "Bone bouse",
+      "Bone Mouse"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "229587a18d5df877fb268cb0988afde3.png",
+    "card": 65,
+    "name": "Silver Fang",
+    "recognized": [
+      "Silver Fang",
+      "Silver Fang"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "246d75ecc7c4e9a3e1bd16cb69b4dcfb.png",
+    "card": 268,
+    "name": "Sectarian of Secrets",
+    "recognized": [
+      "Sectarian of Secrets",
+      "Sectarian of Secrets"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "266bfd53c4e63dd5e22f83a64b3f7062.png",
+    "card": 628,
+    "name": "Witch's Apprentice",
+    "recognized": [
+      "Witch's Apprentice",
+      "Witch's Apprentice"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "27acfa210b60363c09a0b825cce1c14f.png",
+    "card": 401,
+    "name": "Ushi Oni",
+    "recognized": [
+      "Ushi Oni",
+      "Ushi Oni"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "27dd629cff9677c044512b308c691c25.png",
+    "card": 8,
+    "name": "Mushroom Man",
+    "recognized": [
+      "Mushroom Man",
+      "Mushroom Man"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "27e3b659fab0fb3804817d132d400803.png",
+    "card": 89,
+    "name": "Catapult Turtle",
+    "recognized": [
+      "Catapult Turtle",
+      "Catapult Turtle"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2897e171c40b349ef9bb922723f55f5e.png",
+    "card": 13,
+    "name": "Tyhone",
+    "recognized": [
+      "Tyhone",
+      "Tyhone"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2a0e423cad63031c55e0b973c33ceb77.png",
+    "card": 277,
+    "name": "Gorgon Egg",
+    "recognized": [
+      "Gorgon Egg",
+      "Gorgon Egg"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "2b4f4cd0aff21830266e16da1e64c2b9.png",
+    "card": 489,
+    "name": "Barrel Lily",
+    "recognized": [
+      "Barrel Lily",
+      "Barrel Lily"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2bbf473d243afa871d6b057f9e73f342.png",
+    "card": 6,
+    "name": "Feral Imp",
+    "recognized": [
+      "Feral Imp",
+      "Feral Imp"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2c40390f04407aaae069ace44dfc9bec.png",
+    "card": 443,
+    "name": "Sea King Dragon",
+    "recognized": [
+      "Sea King Dragon",
+      "Sea King Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2d4dca168d7c86d0445bfb9d5a942318.png",
+    "card": 254,
+    "name": "Embryonic Beast",
+    "recognized": [
+      "Embryonic Beast",
+      "Embryonic Beast"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2dc8d0a5ca0f215089544506390b0409.png",
+    "card": 187,
+    "name": "Gate Deeg",
+    "recognized": [
+      "Gate Deeg",
+      "Gate Deeg"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "2efa56a1154778a30246ceedf55b5d69.png",
+    "card": 189,
+    "name": "Fusionist",
+    "recognized": [
+      "Fusionist",
+      "Fusionist"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2f135399cf867e5350cc1771f6be2665.png",
+    "card": 649,
+    "name": "Hibikime",
+    "recognized": [
+      "Hibikine",
+      "Hibikime"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2f48043380821bf830f972f226609e15.png",
+    "card": 201,
+    "name": "Frenzied Panda",
+    "recognized": [
+      "Frenzied Panda",
+      "Frenzied Panda"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2f542322d7e598d1893de38a1d1b12f9.png",
+    "card": 194,
+    "name": "Terra the Terrible",
+    "recognized": [
+      "Terra the Terrible",
+      "Terra the Terrible"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2f777b297cfafcbd7f3873896b689c99.png",
+    "card": 182,
+    "name": "Masked Clown",
+    "recognized": [
+      "Masked Clown",
+      "Masked Clown"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2f88d874ff5533a1e2e4ccb61418b8eb.png",
+    "card": 240,
+    "name": "The Drdek",
+    "recognized": [
+      "The Drdek",
+      "The Drdck"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2fa9a535e8cfbcc44fce762be37a047d.png",
+    "card": 161,
+    "name": "M-warrior #2",
+    "recognized": [
+      "M-warrior :2",
+      "M-warrior #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "2fb49ff2485ba13d72ff45fd102457b3.png",
+    "card": 588,
+    "name": "Living Vase",
+    "recognized": [
+      "Living Vase",
+      "Living Vase"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "305a8c06d4b7995c04f4335152400863.png",
+    "card": 170,
+    "name": "Spirit of the Harp",
+    "recognized": [
+      "Spirit of the Harp",
+      "Spirit of the Harp \u2022"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "3099009d37b36c8abdf62f34672a16c3.png",
+    "card": 539,
+    "name": "Corroding Shark",
+    "recognized": [
+      "Corroding Shark",
+      "Corroding Shark"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "309aa0b075c2be25faa6c1397f058160.png",
+    "card": 642,
+    "name": "Mystical Sheep #1",
+    "recognized": [
+      "Mystical Sheep #1",
+      "Mystical Sheep #1"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "317e387ef2db06bbae2836a03eb902a7.png",
+    "card": 426,
+    "name": "Stone D.",
+    "recognized": [
+      "Stone D.",
+      "Stone D."
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "323221addd17e40bc733150ddd777eb2.png",
+    "card": 287,
+    "name": "Ogre of the Black Shadow",
+    "recognized": [
+      "Ogre of the Black Shadow",
+      "Ogre of the Black Shadow"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "32d7a06ba190a33ebf2323b974115b46.png",
+    "card": 281,
+    "name": "Mystic Clown",
+    "recognized": [
+      "Mystic Clown",
+      "Mystic Clown"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "32e4a63f0aa62b7dc86735ba770d8735.png",
+    "card": 269,
+    "name": "Versago the Destroyer",
+    "recognized": [
+      "Versago the Destroyer",
+      "|Versago the Destroyer"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "3407010cf5db8dff6b48528d7ad97f8f.png",
+    "card": 701,
+    "name": "Performance of Sword",
+    "recognized": [
+      "Performance of Sword",
+      "Performance of Sword"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "3470b6c7217520cc07babdcabb3061fa.png",
+    "card": 369,
+    "name": "Wall Shadow",
+    "recognized": [
+      "Wall Shadow",
+      "Wall Shadow"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "356f4adf473f8dba6f2e5670db5a9f78.png",
+    "card": 351,
+    "name": "Yaranzo",
+    "recognized": [
+      "Yaranzo",
+      "Yaranzo"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "35a04b9a95e4d21d7e455aada5db87fc.png",
+    "card": 48,
+    "name": "Sangan",
+    "recognized": [
+      "Sangan",
+      "Sangan"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "35d69be6453709f543ed23cb3c93bea0.png",
+    "card": 192,
+    "name": "Key Mace",
+    "recognized": [
+      "Key Mace",
+      "Key Mace"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "35eac7cd6b9fdaf1276fd21bc0ef11c1.png",
+    "card": 620,
+    "name": "Snakeyashi",
+    "recognized": [
+      "Snakeyashi",
+      "Snakeyashi"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "35fad41b8c3c8708a28960baf79b1262.png",
+    "card": 596,
+    "name": "Ghoul with an Appetite",
+    "recognized": [
+      "Ghoul with an Appetite",
+      "Ghoul with an Appetite"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "3684d5e31a183725b8215c609c499996.png",
+    "card": 200,
+    "name": "Petit Dragon",
+    "recognized": [
+      "Petit Dragon",
+      "Petit Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "37892767a5023db341b7e43ecb60a4c6.png",
+    "card": 220,
+    "name": "Masked Sorcerer",
+    "recognized": [
+      "Masked Sorcerer",
+      "Masked Sorcerer"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "378e5e54a2584a65bcf4ae3e507e850a.png",
+    "card": 706,
+    "name": "Serpent Night Dragon",
+    "recognized": [
+      "Serpent Night Dragon",
+      "Sempent Night Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "38195d66835cef690c3d0422cf4d7edb.png",
+    "card": 484,
+    "name": "Ameba",
+    "recognized": [
+      "Ameba",
+      "Ameba"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "385d79cd1463614d17684d3df6f8104a.png",
+    "card": 686,
+    "name": "Widespread Ruin",
+    "recognized": [
+      "Widespread Ruin",
+      "Widespread Ruin"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "38d0b4fa39e063e2442655eb26949ef4.png",
+    "card": 361,
+    "name": "Flying Penguin",
+    "recognized": [
+      "Flying Penguin",
+      "Flying Penguin"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "391cf3f77488c587ecfc97b10eb53a29.png",
+    "card": 117,
+    "name": "Spirit of the Books",
+    "recognized": [
+      "Spirit of the Books",
+      "Spirit of the Books"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "3920724767604c59eb0f28b5871ca3d7.png",
+    "card": 120,
+    "name": "Dream Clown",
+    "recognized": [
+      "Dream Clown",
+      "Dream Clown"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "394939dff22051bc74153a41b1e5aa76.png",
+    "card": 70,
+    "name": "Fiend Kraken",
+    "recognized": [
+      "Fiend Kraken",
+      "Fiend Kraken"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "3a4a1df9d62d8af407716e5796dcf16b.png",
+    "card": 177,
+    "name": "Monsturtle",
+    "recognized": [
+      "Monsturtle",
+      "Monsturtle"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "3b0b0b09335ab410763f3266872a4e4d.png",
+    "card": 206,
+    "name": "Twin Long Rods #1",
+    "recognized": [
+      "Twin Long Rods #1",
+      "Twin Long Rods #1"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "3b53085975d96a7c3566fc7cff493974.png",
+    "card": 523,
+    "name": "The Bistro Butcher",
+    "recognized": [
+      "The Bistro Butcher",
+      "The Bistro Butcher"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "3e18fbdb83c180a603de221c350cac32.png",
+    "card": 245,
+    "name": "Meda Bat",
+    "recognized": [
+      "Meda Bat",
+      "Meda Bat"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "3f085debfd6d74ff0987a5464c4645d0.png",
+    "card": 11,
+    "name": "Sword Arm of Dragon",
+    "recognized": [
+      "Sword Arm of Dragon",
+      "Sword Arm of Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "3fb3e8a97d40e82b745b5f0abad9401c.png",
+    "card": 229,
+    "name": "Hourglass of Life",
+    "recognized": [
+      "Hourglass of Life",
+      "Hourglass of Life"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "3fc54d00267ba6a39e986f2648f09e43.png",
+    "card": 24,
+    "name": "Skull Servant",
+    "recognized": [
+      "Skull Servant",
+      "Skull Servant"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "40571e914b600ee540eeb4d7df09da10.png",
+    "card": 34,
+    "name": "Saggi the Dark Clown",
+    "recognized": [
+      "Saggi the Dark Clown",
+      "Saggi the Dark Clown"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "422743ea0a95e57a6aa9255ff1892dd0.png",
+    "card": 428,
+    "name": "Magician of Faith",
+    "recognized": [
+      "Magician of Faith",
+      "Magician of Faith"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4236aad013ffd1f3b1a1d0bb914b4e28.png",
+    "card": 271,
+    "name": "Megirus Light",
+    "recognized": [
+      "Megirus Light",
+      "Megirus Light"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4449e53615225ac63957539f115ed174.png",
+    "card": 272,
+    "name": "Mavelus",
+    "recognized": [
+      "Mavelus",
+      "Mavelus"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4473ab6c08e83554ddae80c207a0616a.png",
+    "card": 154,
+    "name": "Fire Reaper",
+    "recognized": [
+      "Fire Reaper",
+      "Fire Reaper"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "45c18db44eb3b592875abfbc69345b08.png",
+    "card": 164,
+    "name": "Lord of Zemia",
+    "recognized": [
+      "Lord of Zenia",
+      "Lord of Zemia"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "466143d4682d633f548ff665e33dd71a.png",
+    "card": 260,
+    "name": "Lunar Queen Elzaim",
+    "recognized": [
+      "Lunar Queen Elzaim",
+      "Lunar Queen Elzaim"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "472543e15ac8b184c23d3c120307350e.png",
+    "card": 218,
+    "name": "Two-mouth Darkruler",
+    "recognized": [
+      "Two-mouth Darkruler",
+      "Two-mouth Darkruler"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "47611049bf2293b523814ac675b08ed1.png",
+    "card": 69,
+    "name": "Thousand Dragon",
+    "recognized": [
+      "Thousand Dragon",
+      "Thousand Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "47c1974f235dcba8cda091edb2464250.png",
+    "card": 23,
+    "name": "The Wicked Worm Beast",
+    "recognized": [
+      "The Wicked Worm Beast",
+      "The Wicked Worm Beast"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "47d00de05505673076b4b7b117816967.png",
+    "card": 86,
+    "name": "Barox",
+    "recognized": [
+      "Barox",
+      "Barox"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "484ec5fcace31db0318f4946166ab7b5.png",
+    "card": 637,
+    "name": "Trent",
+    "recognized": [
+      "Trent",
+      "Trent"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "48d0a330a24a34a0264529cded51fea0.png",
+    "card": 510,
+    "name": "Laughing Flower",
+    "recognized": [
+      "Laughing Flower",
+      "Laughing Flower"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "492b9d968a28fabadc9ea8d6a143e4b3.png",
+    "card": 681,
+    "name": "House of Adhesive Tape",
+    "recognized": [
+      "House of Adhesive Tane",
+      "House of Adhesive Tape"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "49dc30d48297564c459e4411ea9f0639.png",
+    "card": 474,
+    "name": "Sea Kamen",
+    "recognized": [
+      "Sea Kamen",
+      "Sea Kamen"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4a08e7978eefff48da8fb1ec75316727.png",
+    "card": 468,
+    "name": "Queen Bird",
+    "recognized": [
+      "Queen Bird",
+      "Queen Bird"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4a0db51ce23009ff5ac1edebf1be9bf5.png",
+    "card": 102,
+    "name": "Mask of Darkness",
+    "recognized": [
+      "Mask of Darkness",
+      "Mask of Darkness"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4ae6fe6170156625074b2e08f7de9398.png",
+    "card": 224,
+    "name": "Trap Master",
+    "recognized": [
+      "Trap Master",
+      "Trap Master"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "4ba946babad39585ead79fb363df4946.png",
+    "card": 139,
+    "name": "Blue-eyed Silver Zombie",
+    "recognized": [
+      "Blue-eyed Silver Zombie",
+      "Bluc-eyed Silver Zombic"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4c348b579246c874495f23457148d978.png",
+    "card": 137,
+    "name": "Mystery Hand",
+    "recognized": [
+      "Mystery Hand",
+      "Mystery Hand"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4c473deb51f6b4b69c15d503e4335834.png",
+    "card": 174,
+    "name": "Hurricail",
+    "recognized": [
+      "Hurricail",
+      "Hurricail"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4d816319f07512b96214fd293b2e9a40.png",
+    "card": 63,
+    "name": "Harpie Lady Sisters",
+    "recognized": [
+      "Harpie Lady Sisters",
+      "Harpie Lady Sisters"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4e80d7a29b7c75bd8462bc8d4a2030b8.png",
+    "card": 274,
+    "name": "Green Phantom King",
+    "recognized": [
+      "Green Phantom King",
+      "Green Phantom King"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "4f93f40f8690766940507b35e0ccfe10.png",
+    "card": 646,
+    "name": "Gruesome Goo",
+    "recognized": [
+      "Gruesome Goo",
+      "Gruesome Goo"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "4fe6c710eeb277005929140953cac7fa.png",
+    "card": 488,
+    "name": "Rainbow Flower",
+    "recognized": [
+      "Rainbow Flower",
+      "Rainbow Flower"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "51159728cf80d084163496d6f74943d8.png",
+    "card": 213,
+    "name": "Aqua Madoor",
+    "recognized": [
+      "Aqua Madoor",
+      "Aqua Madoor"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5125775e9883502086d9432382d5908f.png",
+    "card": 298,
+    "name": "Wicked Dragon with the Ersatz Head",
+    "recognized": [
+      "Wicked Dragon with the Ersatz Head",
+      "Wided Degin with che Exane Head"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "519b6c9c2c1b3b00668673ff2a393095.png",
+    "card": 600,
+    "name": "Key Mace #2",
+    "recognized": [
+      "Key Mace #2",
+      "Key Mace #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5261b04d1b2c8d9af268220df027152a.png",
+    "card": 241,
+    "name": "Dark Assailant",
+    "recognized": [
+      "Dark Assailant",
+      "Dark Assailant"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "52c4a87bc649c8a3612522931f6f82a4.png",
+    "card": 31,
+    "name": "Koumori Dragon",
+    "recognized": [
+      "Koumori Dragon",
+      "Koumori Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "52d74a90f66596add38ff5b5ec235a13.png",
+    "card": 142,
+    "name": "Flame Manipulator",
+    "recognized": [
+      "Flame Manipulator",
+      "Flame Manipulator"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "52f2ae39504514c461d88e5107f4ef09.png",
+    "card": 641,
+    "name": "Invader of the Throne",
+    "recognized": [
+      "Invader of the Throne",
+      "Invader of the Throne"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "537a0b5c04551b6461b5e8c9b7694e3d.png",
+    "card": 171,
+    "name": "Big Eye",
+    "recognized": [
+      "Big Eye",
+      "Big Eye"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "541aabd7a686f6775997f1f1bdf1d508.png",
+    "card": 127,
+    "name": "Ansatsu",
+    "recognized": [
+      "Ansatsu",
+      "Ansatsu"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "54240a939d3d1787a09a18f23c44c70b.png",
+    "card": 193,
+    "name": "Turtle Tiger",
+    "recognized": [
+      "Turtle Tiger",
+      "Turtle Tiger"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "5432bd838d09f2482a2befd06b359fe0.png",
+    "card": 606,
+    "name": "Twin Long Rods #2",
+    "recognized": [
+      "Twin Long Rods #2",
+      "Twin Long Rods #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "54d1bffd54010d01f92573cb4da9cdee.png",
+    "card": 178,
+    "name": "Claw Reacher",
+    "recognized": [
+      "Claw Reacher",
+      "Claw Reacher"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "551897d5acc3659755c058cbcfbacdd2.png",
+    "card": 449,
+    "name": "30,000-Year White Turtle",
+    "recognized": [
+      "30,000-Year White Turtle",
+      "30.000-Year White Turtle"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5586cc944ecd44f49358a043b4e77c44.png",
+    "card": 122,
+    "name": "Yamatano Dragon Scroll",
+    "recognized": [
+      "Yamatano Dragon Scroll",
+      "Y'amatano Dragon Scroll"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5590577222a19f102682e4d1454be9bb.png",
+    "card": 579,
+    "name": "Abyss Flower",
+    "recognized": [
+      "Abyss Flower",
+      "Abyss Flower"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "57d15044621f7f87803df295a64e4fec.png",
+    "card": 704,
+    "name": "Skull Guardian",
+    "recognized": [
+      "Skull Guardian",
+      "Skull Guardian"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "58e3230dd0cbbe6b1bec721bba448327.png",
+    "card": 256,
+    "name": "Dimensional Warrior",
+    "recognized": [
+      "Dimensional Warrior",
+      "Dimensional Warrior"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "592e17ec2e8a74f6064b2681d2dfd125.png",
+    "card": 294,
+    "name": "Dragoness the Wicked Knight",
+    "recognized": [
+      "Dragoness the Wicked Knight",
+      "Deagoness the Wicked Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "595d0c1fc095c220e81ff60af9b8babe.png",
+    "card": 30,
+    "name": "Zombie Warrior",
+    "recognized": [
+      "Zombie Warrior",
+      "Zombie Warrior"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "59fe92c17ff6af06546319328499f3a3.png",
+    "card": 593,
+    "name": "Giant Turtle Who Feeds on Flames",
+    "recognized": [
+      "Giant Turtle Who Feeds on Flames",
+      "Gatt Turde Sibs Fecis e Flaos"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "5a9500b5a1cafb0888864bbcd805a807.png",
+    "card": 146,
+    "name": "Temple of Skulls",
+    "recognized": [
+      "Temple of Skulls",
+      "Temple of Skulls"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5ae4811392fd5c262108dedb70891fe5.png",
+    "card": 183,
+    "name": "Lucky Trinket",
+    "recognized": [
+      "Lucky Trinket",
+      "Lucky Trinket"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5be11adb36bd61d2fe0da3192cc61c1b.png",
+    "card": 185,
+    "name": "Eyearmor",
+    "recognized": [
+      "Eyearmor",
+      "Eycarmor"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5bfca24b134b99f27688029e15d0fdaa.png",
+    "card": 378,
+    "name": "Swordstalker",
+    "recognized": [
+      "Swordstalker",
+      "Swordstalker"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5ca03d8f087918ae811eb2c01c450a06.png",
+    "card": 168,
+    "name": "Darkfire Dragon",
+    "recognized": [
+      "Darkfire Dragon",
+      "Darkfire Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5d0441fe489bf97f2a2bb6b26e3161c2.png",
+    "card": 47,
+    "name": "Torike",
+    "recognized": [
+      "Torike",
+      "Torike"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "5d9e6aae3524ad699904ec2f5e7ea9ce.png",
+    "card": 160,
+    "name": "M-warrior #1",
+    "recognized": [
+      "M-warrior #1",
+      "M-warrior #1"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5e34cbb10d664363fa5da302163771f4.png",
+    "card": 601,
+    "name": "Tenderness",
+    "recognized": [
+      "Tenderness",
+      "Tenderness"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "5f028435b2bc26a866761a2fe416d37a.png",
+    "card": 9,
+    "name": "Shadow Specter",
+    "recognized": [
+      "Shadow Specter",
+      "Shadow Specter"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6183f2ec7e196a6e63c79a176b3d3cda.png",
+    "card": 387,
+    "name": "Mystic Lamp",
+    "recognized": [
+      "Mystic Lamp",
+      "Mystic Lamp"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "61ae5cd45d57e25ce934490ad3e8f39a.png",
+    "card": 357,
+    "name": "Yamadron",
+    "recognized": [
+      "Yanadron",
+      "Yamadron"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "630b55a70446cdc638698197aba13759.png",
+    "card": 20,
+    "name": "Left Arm of the Forbidden One",
+    "recognized": [
+      "Left Arm of the Forbidden One",
+      "Left Am of the Fortidden On:"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "63250719216bfc29ccaf8d850437ed57.png",
+    "card": 424,
+    "name": "Sky Dragon",
+    "recognized": [
+      "Sky Dragon",
+      "Sky Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "63c7551b9103a07a3a910265bfdc4537.png",
+    "card": 204,
+    "name": "Mabarrel",
+    "recognized": [
+      "Mabarrel",
+      "Mabarrel"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "63f59c559411ea26bd100b329805a6e2.png",
+    "card": 190,
+    "name": "Akakieisu",
+    "recognized": [
+      "Akakieisu",
+      "Akakieisu"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "65eed659718e89377bceb63b6473c18e.png",
+    "card": 172,
+    "name": "Armaill",
+    "recognized": [
+      "Armaill",
+      "Armaill"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "66af9c411cbf059f34b87d6da55e5db6.png",
+    "card": 33,
+    "name": "Judge Man",
+    "recognized": [
+      "Judge Man",
+      "Judge Man"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "66b73e6f1339a4f4e28305d8d07eff53.png",
+    "card": 567,
+    "name": "Darkworld Thorns",
+    "recognized": [
+      "Darkworld Thorns",
+      "Darkworld Thorns"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "680cbf0c6670c31e1a9b47979295885f.png",
+    "card": 90,
+    "name": "Gyakutenno Megami",
+    "recognized": [
+      "Gyakutenno begami",
+      "Gyakutenno Megami"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6850803306aa68e25f6515afaf37154c.png",
+    "card": 227,
+    "name": "Hitodenchak",
+    "recognized": [
+      "Hitodenchak",
+      "Hitodenchak"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6898f54d70c562a9b1e0a20fe31ba0e5.png",
+    "card": 46,
+    "name": "Griffore",
+    "recognized": [
+      "Griffore",
+      "Griffore"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "68bda8843b4a779c88a653955f7e7551.png",
+    "card": 18,
+    "name": "Left Leg of the Forbidden One",
+    "recognized": [
+      "Left Leg of the Forbidden One",
+      "Left Leg of the Forbidden One"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "68e3ce814055c9e112c51d624cbb163d.png",
+    "card": 162,
+    "name": "Tainted Wisdom",
+    "recognized": [
+      "Tainted Wisdom",
+      "Tainted Wisdom"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "68fb5be8ce962d3581083833b51ad838.png",
+    "card": 427,
+    "name": "Kaiser Dragon",
+    "recognized": [
+      "Kaiser Dragon",
+      "Kaiser Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6a057612a4b20924e7052c65ce878af6.png",
+    "card": 621,
+    "name": "Succubus Knight",
+    "recognized": [
+      "Succubus Knight",
+      "Succubus Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6a6dc32729ddae1418fa2ed6a00f49b2.png",
+    "card": 402,
+    "name": "Monster Eye",
+    "recognized": [
+      "Monster Eye",
+      "Monster Eye"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6b0422bee6d03443952836a5cbde6591.png",
+    "card": 95,
+    "name": "Crass Clown",
+    "recognized": [
+      "Crass Clown",
+      "Crass Clown"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "6f419e22663c94792b22e133418c9177.png",
+    "card": 15,
+    "name": "Flame Swordsman",
+    "recognized": [
+      "Flame Swordsman",
+      "Flame Swordsman"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "6fcc6bb0eff22123efc6c3fd767bd5a3.png",
+    "card": 134,
+    "name": "Mystical Capture Chain",
+    "recognized": [
+      "Mystical Capture Chain",
+      "Mystical Capture Chain"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7073265856a79f5253fc76a324ccb0a6.png",
+    "card": 100,
+    "name": "Battle Warrior",
+    "recognized": [
+      "Battle Warrior",
+      "Battle Warrior"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "707bfe6e1d0fc2decc4a4de907f065b9.png",
+    "card": 87,
+    "name": "Dark Chimera",
+    "recognized": [
+      "Dark Chimera",
+      "Dark Chimera"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "714867b1d2b5be8330cd6e4ea63b3d25.png",
+    "card": 228,
+    "name": "Wood Remains",
+    "recognized": [
+      "Wood Renains",
+      "Wood Remains"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "71ac98cd59ddab5a06cfc5ac16b33763.png",
+    "card": 258,
+    "name": "Beastking of the Swamps",
+    "recognized": [
+      "Beastking of the Swamps",
+      "Beastking of the Swamps"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "71fb199af30ffb541d178ebd8648b82e.png",
+    "card": 118,
+    "name": "Supporter in the Shadows",
+    "recognized": [
+      "Supporter in the Shadows",
+      "Supporter in the Shadows"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "72361178c3a11532ba13b7ed9e654532.png",
+    "card": 282,
+    "name": "Mystical Sheep #2",
+    "recognized": [
+      "Mystical Sheep #2",
+      "Mystical Sheep #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "74a010e23de827a1059fb6478d844f0f.png",
+    "card": 38,
+    "name": "Gaia the Fierce Knight",
+    "recognized": [
+      "Gaia the Fierce Knight",
+      "Gaia the Fierce Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "74e69a360184b7a8350c08b8d5402e17.png",
+    "card": 37,
+    "name": "Gaia the Dragon Champion",
+    "recognized": [
+      "Gaia the Dragon Champion",
+      "Gaia the Dragon Champion"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "75c8504f9529c7619925442aed4899e7.png",
+    "card": 115,
+    "name": "Kamion Wizard",
+    "recognized": [
+      "Kamion Wizard",
+      "Kamion Wizard"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "7653c971baee2243c19e8f370c3da7d0.png",
+    "card": 527,
+    "name": "Milus Radiant",
+    "recognized": [
+      "Milus Radiant",
+      "Milus Radiant"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "76621f3f81a78006ba53a874b5e91ea0.png",
+    "card": 519,
+    "name": "Fire Kraken",
+    "recognized": [
+      "Fire Kraken",
+      "Fire Kraken"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "7792c6d8dc5819b22ed355238804a3ad.png",
+    "card": 45,
+    "name": "Oscillo Hero #2",
+    "recognized": [
+      "Oscillo Hero #2",
+      "Oscillo Hero #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "783e0791b078c6c59f3542cbcd137db3.png",
+    "card": 199,
+    "name": "Penguin Knight",
+    "recognized": [
+      "Penguin Knight",
+      "Penguin Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "78f3335985954338e65cb5a2906b07f6.png",
+    "card": 173,
+    "name": "Dark Prisoner",
+    "recognized": [
+      "Dark Prisoner",
+      "Dark Prisoner"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "792befa333469c208a58cc098e963ccc.png",
+    "card": 471,
+    "name": "Soul Hunter",
+    "recognized": [
+      "Soul Hunter",
+      "Soul Hunter"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7a0c1d48f515af8b7f2e3d933ca41d92.png",
+    "card": 393,
+    "name": "Zone Eater",
+    "recognized": [
+      "Zone Bater",
+      "one katet"
+    ],
+    "score": 0.889,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7a1931d9eec3c499b21c3b9007528aee.png",
+    "card": 296,
+    "name": "One-eyed Shield Dragon",
+    "recognized": [
+      "One-eyed Shield Dragon",
+      "One-eyed Shield Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "7a56243a075a0f387f05468866b2a849.png",
+    "card": 222,
+    "name": "Midnight Fiend",
+    "recognized": [
+      "Midnight Fiend",
+      "Midnight Fiend"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "7aa48585b89349281cf9aa9a9977a97e.png",
+    "card": 92,
+    "name": "Rabid Horseman",
+    "recognized": [
+      "Rabid Horseman",
+      "Rabid Horseman"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7ac6285196637c2a85c79d42c59dc223.png",
+    "card": 133,
+    "name": "Charubin the Fire Knight",
+    "recognized": [
+      "Charubin the Fire Knight",
+      "Charubin the Fire Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7bdfcb9c584736591c0eba7c607e0161.png",
+    "card": 445,
+    "name": "Guardian of the Sea",
+    "recognized": [
+      "Guardian of the Sea",
+      "Guardian of the Sea"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7c8dc4581b5ae16dc2da4b7edab55025.png",
+    "card": 448,
+    "name": "Spike Seadra",
+    "recognized": [
+      "Spike Seadra",
+      "Spike Seadra"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7cb52fc7f372488510996bfd789d8aca.png",
+    "card": 470,
+    "name": "Magical Ghost",
+    "recognized": [
+      "Magical Ghost",
+      "Magical Ghost"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7ce504c41c631fa8feb379d62d228fcc.png",
+    "card": 611,
+    "name": "Hiro's Shadow Scout",
+    "recognized": [
+      "Hiro's Shadow Scout",
+      "Hiro's Shadow Scout"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7d6f13da26583e1d69a1b8c9f3523f41.png",
+    "card": 58,
+    "name": "Kuriboh",
+    "recognized": [
+      "Kuriboh",
+      "Kuriboh"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7dbf4f13a4ad28f3ab6cbed5d749354d.png",
+    "card": 250,
+    "name": "Hyo",
+    "recognized": [
+      "Hyo",
+      "Hyo"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7dd4b15a852f2d7fa0c2490cf5f09228.png",
+    "card": 2,
+    "name": "Mystical Elf",
+    "recognized": [
+      "Mystical Elf",
+      "Mystical Elf"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "7eb5563cbb6267642715cc66f1c28740.png",
+    "card": 98,
+    "name": "Clown Zombie",
+    "recognized": [
+      "Clown Zombie",
+      "Clown Zombie"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "801c5313a9d0d80faf6569dcd979ef7a.png",
+    "card": 712,
+    "name": "Meteor Dragon",
+    "recognized": [
+      "Meteor Dragon",
+      "Meteor Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "80963be4e3aeb0ef2cd06b49c1aeb4bc.png",
+    "card": 225,
+    "name": "Fiend Sword",
+    "recognized": [
+      "Fiend Sword",
+      "Fiend Sword"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "80dcb697856a7e9b06056246674fe03f.png",
+    "card": 398,
+    "name": "Ooguchi",
+    "recognized": [
+      "Ooguchi",
+      "Ooguchi"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "812c5b0216dcac30bfc3510b1dd456f5.png",
+    "card": 96,
+    "name": "Armored Zombie",
+    "recognized": [
+      "Arnored Zombie",
+      "Armored Zombie"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8216b99c388db774dd7283a913f4582f.png",
+    "card": 446,
+    "name": "Aqua Snake",
+    "recognized": [
+      "Aqua Snake",
+      "Aqua Snake"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "8237ee62c439c348770630e68958fe40.png",
+    "card": 138,
+    "name": "Dragon Statue",
+    "recognized": [
+      "Dragon Statue",
+      "Dragon Statue"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "82e33e7ce6e16e4758ba23ebb8877204.png",
+    "card": 231,
+    "name": "Wood Clown",
+    "recognized": [
+      "Wood Clown",
+      "Wood Clown"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8545246ef5ed52e25b3a1fdd280eeeda.png",
+    "card": 97,
+    "name": "Dragon Zombie",
+    "recognized": [
+      "Dragon Zonbie",
+      "Dragon Zombie"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "85eb154601a4e07c112c4519aba3ce48.png",
+    "card": 25,
+    "name": "Horn Imp",
+    "recognized": [
+      "Horn Imp",
+      "Horn Imp"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "865bb9759df171dbb4ed20d8448ba785.png",
+    "card": 547,
+    "name": "Griggle",
+    "recognized": [
+      "Griggle",
+      "Griggle"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "86fe09fae9d182e0c52535abc63f785c.png",
+    "card": 246,
+    "name": "One Who Hunts Souls",
+    "recognized": [
+      "One Who Hunts Souls",
+      "One Who Hunts Souls"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "8837968e62e6c9468e4b8c6682692f31.png",
+    "card": 150,
+    "name": "Akihiron",
+    "recognized": [
+      "Akihiron",
+      "Akihiron"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "896859a7fc60e8b88570f9cfe413b752.png",
+    "card": 148,
+    "name": "The Shadow Who Controls the Dark",
+    "recognized": [
+      "The Shadow Who Controls the Dark",
+      "1 The Shaloe Who Costnls di: Daris"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "89f4e9abde6a1ae502647f1bb3d811b4.png",
+    "card": 167,
+    "name": "Ancient Jar",
+    "recognized": [
+      "Ancient Jar",
+      "Ancient Jar"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8aa087b9d1cf2ce0e6db1ddb75d834eb.png",
+    "card": 107,
+    "name": "Kageningen",
+    "recognized": [
+      "Kageningen",
+      "Kageningen"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "8b9982eb4edd6fd63fd5849afbde66f1.png",
+    "card": 207,
+    "name": "Droll Bird",
+    "recognized": [
+      "Droll Bird",
+      "Droll Bird"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8bdfa391d3aad77f1e04a230d2160031.png",
+    "card": 82,
+    "name": "Red-eyes B. Dragon",
+    "recognized": [
+      "Red-eyes B. Dragon",
+      "Red-eyes B. Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8be6d468993fe63629375e72729e0a08.png",
+    "card": 377,
+    "name": "Ryu-kishin Powered",
+    "recognized": [
+      "Ryu-kishin Powered",
+      "Ryu-kishin Powered"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8c3092075ff6de27379e4b728256ccc3.png",
+    "card": 561,
+    "name": "Lesser Dragon",
+    "recognized": [
+      "Lesser Dragon",
+      "Lesser Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "8cf15399fb65359d796ad67987922aa3.png",
+    "card": 83,
+    "name": "Castle of Dark Illusions",
+    "recognized": [
+      "Castle of Dark Illusions",
+      "Castle of Dark Illusions"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8d2fd294fb623583cfc85bde97700374.png",
+    "card": 266,
+    "name": "Princess of Tsurugi",
+    "recognized": [
+      "Princess of Tsurugi",
+      "Princess of Tsurugi"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "8d5b0d3fe5b3915f8798914ef37055a8.png",
+    "card": 530,
+    "name": "Eldeen",
+    "recognized": [
+      "Eldeen",
+      "Eldeen"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "8e5d3c06a889b1856d9583e82c0990fc.png",
+    "card": 563,
+    "name": "Wretched Ghost of the Attic",
+    "recognized": [
+      "Wretched Ghost of the Attic",
+      "Wretched Ghost of the Attic"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "9079b748374664f74d88d183daec9ca3.png",
+    "card": 153,
+    "name": "Dokuroizo the Grim Reaper",
+    "recognized": [
+      "Dokuroizo the Grim Reaper",
+      "Dokuroizo the Grim Reaper"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "91bdb8142817c03e15de7927a570e379.png",
+    "card": 248,
+    "name": "Master & Expert",
+    "recognized": [
+      "Master & Expert",
+      "Master & Expert"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "91dfa513acf43311881c21bfab7f8f65.png",
+    "card": 59,
+    "name": "Mammoth Graveyard",
+    "recognized": [
+      "Mannoth Graveyard",
+      "Mammoth Graveyard"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "925a78c42ac5b9f84745580804dbfb7e.png",
+    "card": 39,
+    "name": "Curse of Dragon",
+    "recognized": [
+      "Curse of Dragon",
+      "Curse of Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9268d41547b92758b658c88d44457a1d.png",
+    "card": 615,
+    "name": "Armored Starfish",
+    "recognized": [
+      "Arnored Starfish",
+      "Armored Starfish"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9399c39a929cfea7fb5f0c458bbbee59.png",
+    "card": 155,
+    "name": "Larvas",
+    "recognized": [
+      "Larvas",
+      "Larvas"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "939c7a4f24b7460c70de69f9327e03df.png",
+    "card": 612,
+    "name": "Lady of Faith",
+    "recognized": [
+      "Lady of Faith",
+      "Lady of Faith"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "93e2b0116f59ce8b205540d38619cc50.png",
+    "card": 264,
+    "name": "Wing Egg Elf",
+    "recognized": [
+      "Wing Egg Elf",
+      "Wing Egg Elf"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "95340dd70de1da30bcf4d6e52c41250d.png",
+    "card": 497,
+    "name": "Yado Karu",
+    "recognized": [
+      "Yado Karu",
+      "Yado Karu"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "95ec5df771e1975ac06741014d90c99a.png",
+    "card": 249,
+    "name": "Water Omotics",
+    "recognized": [
+      "Water Omotics",
+      "Water Omotics"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "97af1a38465b9366f6a4596e4d93aeea.png",
+    "card": 550,
+    "name": "Behegon",
+    "recognized": [
+      "Behegon",
+      "Behegon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "98828a8350db2455e0f0369182821298.png",
+    "card": 232,
+    "name": "Madjinn Gunn",
+    "recognized": [
+      "Madjinn Gunn",
+      "Madiinn Gunn"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "9a469f83f39fff6c9ce3f5428706257a.png",
+    "card": 451,
+    "name": "Kanikabuto",
+    "recognized": [
+      "Kanikabuto",
+      "Kanikabuto"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9a7f743da1db256c64a864edeb3c8140.png",
+    "card": 431,
+    "name": "Ice Water",
+    "recognized": [
+      "Ice Water",
+      "Ice Water"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9b15d8663e3bf8c81c701a504ba44415.png",
+    "card": 472,
+    "name": "Air Eater",
+    "recognized": [
+      "Air Eater",
+      "Air Eater"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9b7b288f0e5184ca8c0172a01d26214b.png",
+    "card": 261,
+    "name": "Wicked Mirror",
+    "recognized": [
+      "Wicked Mirror",
+      "Wicked Mirror"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9bd69bf60eed974da34b7cd88f943127.png",
+    "card": 156,
+    "name": "Hard Armor",
+    "recognized": [
+      "Hard Arnor",
+      "Hard Armor"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9c58c7725099cfad435e6d76e3239d70.png",
+    "card": 202,
+    "name": "Air Marmot of Nefariousness",
+    "recognized": [
+      "Air Marmot of Nefariousness",
+      "Air Marmot of Nefaricusaess"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9dd617cfed5a3b8f44fdf34ab13031f5.png",
+    "card": 265,
+    "name": "The Furious Sea King",
+    "recognized": [
+      "The Furious Sea King",
+      "The Furious Sea King"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "9e0473e3bf46e75656f6c64271a853a2.png",
+    "card": 234,
+    "name": "Beautiful Headhuntress",
+    "recognized": [
+      "Beautiful Headhuntress",
+      "| Beautiful Headbuntress"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "9e57bd8fec010b7a7eaf3ff51d30e2dd.png",
+    "card": 210,
+    "name": "Hinotama Soul",
+    "recognized": [
+      "Hinotama Soul",
+      "Hinotama Soul"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a085a1e3dce956770a84ff79d674f658.png",
+    "card": 43,
+    "name": "Karbonala Warrior",
+    "recognized": [
+      "Karbonala Warrior",
+      "Karbonala Warrior"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a0ce7852832b4ebd8085f57e5c1f5068.png",
+    "card": 383,
+    "name": "Parrot Dragon",
+    "recognized": [
+      "Parrot Dragon",
+      "Parrot Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a1447d793f88cb5b6b736d2dd7065de5.png",
+    "card": 85,
+    "name": "King of Yamimakai",
+    "recognized": [
+      "King of Yamimakai",
+      "King of Yamimakai"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "a1cfb624d323c65ab818bec66b439096.png",
+    "card": 635,
+    "name": "Queen's Double",
+    "recognized": [
+      "Queen's Double",
+      "Queen's Double"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a221bfe9638622d0be64bab5cd1366d6.png",
+    "card": 78,
+    "name": "Axe Raider",
+    "recognized": [
+      "Axe Raider",
+      "Axe Raider"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a2ad1551033fe9c101e92d111ac95751.png",
+    "card": 75,
+    "name": "Man-eating Plant",
+    "recognized": [
+      "Man-eating Plant",
+      "Man-cating Plant"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a2d56b70b838b09500a15d39ffaa1841.png",
+    "card": 41,
+    "name": "Celtic Guardian",
+    "recognized": [
+      "Celtic Guardian",
+      "Celtic Guardian"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a336cc0107f7329ca9192d447647ecf0.png",
+    "card": 560,
+    "name": "Invader from Another Dimension",
+    "recognized": [
+      "Invader from Another Dimension",
+      "Imader frcen Abotter Dimersico"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a4048f299ab78adbca7e2996e3cb3fa9.png",
+    "card": 121,
+    "name": "Sleeping Lion",
+    "recognized": [
+      "Sleeping Lion",
+      "Siceping Lion"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a41c665bcc2a175e790ba9e4db38ae44.png",
+    "card": 238,
+    "name": "Yashinoki",
+    "recognized": [
+      "Yashinoki",
+      "Yashinoki"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a43614a25aae15c043587b5116243b49.png",
+    "card": 26,
+    "name": "Battle Ox",
+    "recognized": [
+      "Battle 0x",
+      "Battle Ox"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "a650983d689a95e4f1e5bf75d187e6a3.png",
+    "card": 481,
+    "name": "Burglar",
+    "recognized": [
+      "Burglar",
+      "Burglar"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a6699d4a1bce18fe4655d29c33dff994.png",
+    "card": 219,
+    "name": "Solitude",
+    "recognized": [
+      "Solitude",
+      "Solitude"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "a685640869b9e82924ebc0ac09629b32.png",
+    "card": 61,
+    "name": "Wolf",
+    "recognized": [
+      "Wolf",
+      "Wolf"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a74202cbc497ecdc50db198cef77dfd0.png",
+    "card": 586,
+    "name": "Greenkappa",
+    "recognized": [
+      "Greenkappa",
+      "Greenkappa"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "a87748ef602db90ad21b010a24cb26a3.png",
+    "card": 534,
+    "name": "Minar",
+    "recognized": [
+      "Minar",
+      "Minar"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "a8a71ce4dfb42ab205e0fcaf45dc6355.png",
+    "card": 159,
+    "name": "Dig Beak",
+    "recognized": [
+      "Dig Beak",
+      "Dig Beak"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "a8f603aabff546900a38c9a6bbf4d7f6.png",
+    "card": 502,
+    "name": "D. Human",
+    "recognized": [
+      "D. Hunan",
+      "D. Human"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "a991937c2f71980a3230810bd2ecab4e.png",
+    "card": 599,
+    "name": "Violent Rain",
+    "recognized": [
+      "Violent Rain",
+      "Violent Rain"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "a9d1ba7435fb323b9b71155d41349054.png",
+    "card": 702,
+    "name": "Hungry Burger",
+    "recognized": [
+      "Hungry Burger",
+      "Hungry Burger"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "aaa6cd26b8c3429abcbaaf2abd85f53b.png",
+    "card": 430,
+    "name": "Water Magician",
+    "recognized": [
+      "Water Magician",
+      "Water Magician"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ab407c593bedd96de1c3abc51d242b79.png",
+    "card": 450,
+    "name": "Kappa Avenger",
+    "recognized": [
+      "Kappa Avenger",
+      "Kappa Avenger"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ab4aa7b2c61ecdae839d20d1a5f7c152.png",
+    "card": 205,
+    "name": "Dorover",
+    "recognized": [
+      "Dorover",
+      "Dorover"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ac7bdde66440a387f8880fe5112e9056.png",
+    "card": 318,
+    "name": "Elegant Egotist",
+    "recognized": [
+      "Elegant Egotist",
+      "Elegant Egotist"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "adf6f0a309310d3868abfd9275157019.png",
+    "card": 604,
+    "name": "Obese Marmot of Nefariousness",
+    "recognized": [
+      "Obese Marmot of Nefariousness",
+      "Obese Marmot ce Nefariousness"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ae21bfaf80ef91db4cec30079451122c.png",
+    "card": 73,
+    "name": "Kairyu-Shin",
+    "recognized": [
+      "Kairyu-shin",
+      "Kairyu-Shin"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "ae4968cb8485baf99577b85d61f3e83f.png",
+    "card": 151,
+    "name": "Rhaimundos of the Red Sword",
+    "recognized": [
+      "Rhaimundos of the Red Sword",
+      "Rhaimundos efthe Red Swoed"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "afad62f1764b273bb4023a3c887b1020.png",
+    "card": 395,
+    "name": "Dancing Elf",
+    "recognized": [
+      "Dancing Elf",
+      "Dancing Elf"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b080bee628328db2bb0b54379e241604.png",
+    "card": 3,
+    "name": "Hitotsu-me Giant",
+    "recognized": [
+      "Hitotsu-me Giant",
+      "Hitotsu-me Giant"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b13cbfa0e0e59c67fb907b0ccfb31590.png",
+    "card": 81,
+    "name": "Crawling Dragon #2",
+    "recognized": [
+      "Crawling Dragon #2",
+      "Crawling Dragon #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b19bf212f307cdf93fe306ad2e7aa764.png",
+    "card": 19,
+    "name": "Right Arm of the Forbidden One",
+    "recognized": [
+      "Right Arm of the Forbidden One",
+      "Rieht Ane d\u1ec3 the Fortidken One"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b1ace034f6a288f124c61afc1bb1adfc.png",
+    "card": 365,
+    "name": "Fiend's Mirror",
+    "recognized": [
+      "Fiend's Mirror",
+      "Fiend's Mirror"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "b2db10f7bb5af8b724b4d4a283804f23.png",
+    "card": 571,
+    "name": "B. Dragon Jungle King",
+    "recognized": [
+      "B. Dragon Jungle King",
+      "B. Dragon Jungle King"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b2f14abfe9e02945112497b970423e40.png",
+    "card": 113,
+    "name": "Dark Gray",
+    "recognized": [
+      "Dark Gray",
+      "Dark Gray"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b36a7b28b800e83de8a72363b6d20b81.png",
+    "card": 719,
+    "name": "Dokurorider",
+    "recognized": [
+      "Dokurorider",
+      "Dokurorider"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b43ba4422211a59069fe93d46450c73c.png",
+    "card": 280,
+    "name": "Protector of the Throne",
+    "recognized": [
+      "Protector of the Throne",
+      "Protector of the Throne"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b4716b484037e76bc2db1008385858e5.png",
+    "card": 469,
+    "name": "Armed Ninja",
+    "recognized": [
+      "Arned Kinja",
+      "Armed Ninja"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b4e7afbeaec6e2d362772ced4fbc713f.png",
+    "card": 129,
+    "name": "Nemuriko",
+    "recognized": [
+      "Nenuriko",
+      "Nemuriko"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b5924b8d3e26fa8d8a90c4d214a1820c.png",
+    "card": 267,
+    "name": "Unknown Warrior of Fiend",
+    "recognized": [
+      "Unknown Warrior of Fiend",
+      "Unknown Warrior of Fiend"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b73c01130ed29034f9d65b6213da0cd7.png",
+    "card": 368,
+    "name": "Shadow Ghoul",
+    "recognized": [
+      "Shadow Ghoul",
+      "Shadow Ghoul"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b8350373fe1799043e618f9b13b3bb58.png",
+    "card": 10,
+    "name": "Blackland Fire Dragon",
+    "recognized": [
+      "Blackland Fire Dragon",
+      "Blackland Fire Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b862c2b07c6b91dbe4c4d36d1aa98fca.png",
+    "card": 425,
+    "name": "Thunder Dragon",
+    "recognized": [
+      "Thunder Dragon",
+      "Thunder Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "b8c585aa526f16fd0ffe7de06ef51698.png",
+    "card": 203,
+    "name": "Phantom Ghost",
+    "recognized": [
+      "Phantom Ghost",
+      "Phantom Ghost"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b98a7a3b50264e89197e18e6a9cf2b5c.png",
+    "card": 492,
+    "name": "Hoshiningen",
+    "recognized": [
+      "Hoshiningen",
+      "Hoshiningen"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "b9c2cefb08b15c0426262d21a04cb8db.png",
+    "card": 262,
+    "name": "The Little Swordsman of Aile",
+    "recognized": [
+      "The Little Swordsman of Aile",
+      "The Little Swordsman of Aik"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "ba229ea00e7f9318fe7f54a19d1aa21b.png",
+    "card": 434,
+    "name": "Beautiful Beast Trainer",
+    "recognized": [
+      "Beautiful Beast Trainer",
+      "Beautiful Beast Trainer"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ba45109edb310f5637cea975f8eeb863.png",
+    "card": 291,
+    "name": "Fireyarou",
+    "recognized": [
+      "Fireyarou",
+      "Fireyarou"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bad6ac7e655c90f139480019ea56bfce.png",
+    "card": 94,
+    "name": "Crawling Dragon",
+    "recognized": [
+      "Crawling Dragon",
+      "Crawling Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bb5798e31fb543802e8b119d3aaad475.png",
+    "card": 290,
+    "name": "Moon Envoy",
+    "recognized": [
+      "Moon Envoy",
+      "Moon Envoy"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bb60d5c6b3b44ded410618c2f299c63d.png",
+    "card": 158,
+    "name": "Man Eater",
+    "recognized": [
+      "Man Eater",
+      "Man Eater"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "bc0204b61915589f2568274cdb723a43.png",
+    "card": 188,
+    "name": "Synchar",
+    "recognized": [
+      "Synchar",
+      "Synchar"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bcaf3c169b0fe40eb5194b3fc006760d.png",
+    "card": 452,
+    "name": "Zarigun",
+    "recognized": [
+      "Zarigun",
+      "Zarigun"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bd10cc4a13cd6ff4fc603a1557ecdf57.png",
+    "card": 293,
+    "name": "Masaki the Legendary Swordsman",
+    "recognized": [
+      "Masaki the Legendary Swordsman",
+      "Slasatithe Le\u015fenlany Sarodenan"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bd9e91c6225dd33564e85a9db84abf88.png",
+    "card": 292,
+    "name": "Psychic Kappa",
+    "recognized": [
+      "Psychic Kappa",
+      "Psychic Kappa"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "bda2d106624f7dc83a50730912b07e40.png",
+    "card": 66,
+    "name": "Kojikocy",
+    "recognized": [
+      "Kojikocy",
+      "Kojikocy"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "bed4e61472feacd40b480ea2431670c6.png",
+    "card": 215,
+    "name": "Flame Ghost",
+    "recognized": [
+      "Flame Ghost",
+      "Flame Ghost"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "bf9e574d48a3ade520767b17977318eb.png",
+    "card": 149,
+    "name": "Lord of the Lamp",
+    "recognized": [
+      "Lord of the Lamp",
+      "Lord of the Lamp"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c13a9ac1c1cb3e03b8a7c24b77142a86.png",
+    "card": 524,
+    "name": "Star Boy",
+    "recognized": [
+      "Star Boy",
+      "Star Boy"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "c1af4b67f3dd4c26b4c5e262bc33d6df.png",
+    "card": 384,
+    "name": "Dark Rabbit",
+    "recognized": [
+      "Dark Rabbit",
+      "Dark Rabbit"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c2d5e3ac55c653332a80b16a55fc06a1.png",
+    "card": 715,
+    "name": "Psycho-Puppet",
+    "recognized": [
+      "Psycho-Puppet",
+      "Psycho-Puppet"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c34d0923f1e0a3c62896924d171fc667.png",
+    "card": 618,
+    "name": "Warrior of Tradition",
+    "recognized": [
+      "Warrior of Tradition",
+      "Warrior of Tradition"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c37eb95a67b86bf6d74b0d0635407b53.png",
+    "card": 545,
+    "name": "Skelgon",
+    "recognized": [
+      "Skelgon",
+      "Skelgon"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "c395c87026a8e91e6caca01278759588.png",
+    "card": 88,
+    "name": "Metal Guardian",
+    "recognized": [
+      "Metal Guardian",
+      "Metal Guardian"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c3c7d6d727aaaa208e2c6c3f48a8c1d1.png",
+    "card": 435,
+    "name": "Water Girl",
+    "recognized": [
+      "Water Girl",
+      "Water Girl"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "c4296c498eeba1aeabbaf62c6e5a23c7.png",
+    "card": 214,
+    "name": "Kagemusha of the Blue Flame",
+    "recognized": [
+      "Kagemusha of the Blue Flame",
+      "Kapemuska of the Blue Flame"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c43d4f159db3913dc79c373d8c80531f.png",
+    "card": 108,
+    "name": "Graveyard and the Hand of Invitation",
+    "recognized": [
+      "Graveyard and the Hand of Invitation",
+      "Gaverand and die Hand ai lesintice."
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c4567dcd9c401b0e2a2460dfc2e1da8c.png",
+    "card": 242,
+    "name": "Candle of Fate",
+    "recognized": [
+      "Candle of Fate",
+      "Candle of Fate"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c55226031562415c041f8f1c5fbb7da6.png",
+    "card": 634,
+    "name": "Night Lizard",
+    "recognized": [
+      "Night Lizard",
+      "Night Lizard"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c5ad8a647765ee6bcd0835edc2183bb9.png",
+    "card": 503,
+    "name": "Turtle Raccoon",
+    "recognized": [
+      "Turtle Raccoon",
+      "Turtle Raccoon"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "c5bed899f6691192c39a59b20919c8ef.png",
+    "card": 136,
+    "name": "Witty Phantom",
+    "recognized": [
+      "Witty Phantom",
+      "Witty Phantom"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "c61e9531ecdc1e00c0cf3d75b742c2b5.png",
+    "card": 625,
+    "name": "Fairy of the Fountain",
+    "recognized": [
+      "Fairy of the Fountain",
+      "Fairy of the Fountain"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c6ee173bdb4bfcba15ecd7f3167454ed.png",
+    "card": 354,
+    "name": "Stuffed Animal",
+    "recognized": [
+      "Stuffed Animal",
+      "Stuffed Animal"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c73fe9651b30d20f87d059db4c2e8459.png",
+    "card": 299,
+    "name": "Sonic Maid",
+    "recognized": [
+      "Sonic Maid",
+      "Sonic Maid"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "c7a71d40ad6625944d115c658db68402.png",
+    "card": 273,
+    "name": "Ancient Tree of Enlightenment",
+    "recognized": [
+      "Ancient Tree of Enlightenment",
+      "Aocient Tree of Ealizhteameot"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c7c85a217a9ee56e0fe3b1f84b30694f.png",
+    "card": 36,
+    "name": "The Snake Hair",
+    "recognized": [
+      "The Snake Hair",
+      "The Snake Hair"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c89f3176d6a8c52b17c9f1bcb4c93dae.png",
+    "card": 255,
+    "name": "Prevent Rat",
+    "recognized": [
+      "Prevent Rat",
+      "Prevent Rat"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "c958ed638fc17b8ac215997970b59bd0.png",
+    "card": 176,
+    "name": "Fire Eye",
+    "recognized": [
+      "Fire Eye",
+      "Fire Eye"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "c960864ec746bb01e5607ac361f48664.png",
+    "card": 376,
+    "name": "Monster Tamer",
+    "recognized": [
+      "Monster Tamer",
+      "Monster Tamer"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ca05c3cc484014c82a5d5681aad79270.png",
+    "card": 578,
+    "name": "Leo Wizard",
+    "recognized": [
+      "Leo Wizard",
+      "Leo Wizard"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ca1ae7cc9b2771e75642b65e5ccf2d74.png",
+    "card": 650,
+    "name": "Whiptail Crow",
+    "recognized": [
+      "Whiptail Crow",
+      "Whiptail Crow"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ca2419920b304a2cde8bce8adba26447.png",
+    "card": 644,
+    "name": "Flame Viper",
+    "recognized": [
+      "Flame Viper",
+      "Flame Viper"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "cb618987279314263c34c2fa0d9d0d6a.png",
+    "card": 135,
+    "name": "Fiend's Hand",
+    "recognized": [
+      "Fiend's Hand",
+      "Fiend's Hand"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "cba50fcd06c166956f995e711b391916.png",
+    "card": 444,
+    "name": "Turu-Purun",
+    "recognized": [
+      "Turu-Purun",
+      "Turu-Purun"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "cc2f6e49846a5d0ee4b34cd50d0c65e7.png",
+    "card": 179,
+    "name": "Phantom Dewan",
+    "recognized": [
+      "Phanton Dewan",
+      "Phantom Dewan"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ccf8e9689da041e720bd4187d6fde15b.png",
+    "card": 572,
+    "name": "Empress Judge",
+    "recognized": [
+      "Empress Judge",
+      "Empress Judge"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ce92398740f291c0adef41e6d46a84af.png",
+    "card": 144,
+    "name": "Djinn the Watcher of the Wind",
+    "recognized": [
+      "Djinn the Watcher of the Wind",
+      "Djinn the Watcher of the Wind"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "cf0114e80c0f91e08c7d8dd6dc3b4c53.png",
+    "card": 409,
+    "name": "Metal Dragon",
+    "recognized": [
+      "Metal Dragon",
+      "Metal Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "cf9850c5fd2c52c6b8822e571b7961b9.png",
+    "card": 284,
+    "name": "Tao the Chanter",
+    "recognized": [
+      "Tao the Chanter",
+      "Tao the Chanter"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "cfaa71465a8f0ddc2586db4d652e1222.png",
+    "card": 653,
+    "name": "Warrior Elimination",
+    "recognized": [
+      "Warrior Elimination",
+      "Warrior Elimination"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d0613cd1f8a38cc7f846c2bf3022b825.png",
+    "card": 602,
+    "name": "Penguin Soldier",
+    "recognized": [
+      "Penguin Soldier",
+      "Penguin Soldier"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "d074f5c2f322f836490b02cd72352efd.png",
+    "card": 152,
+    "name": "The Melting Red Shadow",
+    "recognized": [
+      "The Melting Red Shadow",
+      "The Melting Red Shadow"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d12f38d2f91d01873bc86ed1cdcbeba9.png",
+    "card": 259,
+    "name": "Ancient Sorcerer",
+    "recognized": [
+      "Ancient Sorcerer",
+      "Ancient Sorcerer"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d15b33ee9a6b89a8cae51016d38beed9.png",
+    "card": 574,
+    "name": "Witch of the Black Forest",
+    "recognized": [
+      "Witch of the Black Forest",
+      "Witch of the Black Forest"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "d48c3c6d69e0622bd5ae4ba9923b2db1.png",
+    "card": 389,
+    "name": "Giltia the D. Knight",
+    "recognized": [
+      "Giltia the D. Knight",
+      "Giltia the D. Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d5a02579cc1da10069d7bea032b19328.png",
+    "card": 353,
+    "name": "Takriminos",
+    "recognized": [
+      "Takriminos",
+      "Takriminos"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "d62616640b84f875afc882de322a1803.png",
+    "card": 74,
+    "name": "Giant Soldier of Stone",
+    "recognized": [
+      "Giant Soldier of Stone",
+      "Giant Soldier of Stone"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d701c2e11508dedaae1748b62e59b3a3.png",
+    "card": 647,
+    "name": "Hyosube",
+    "recognized": [
+      "Hyosube",
+      "Hyosube"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d754e1eba8a49b4435cb5b12afc1d561.png",
+    "card": 605,
+    "name": "Liquid Beast",
+    "recognized": [
+      "Liquid Beast",
+      "Liquid Beast"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d79b55c722b372e2ac20b740cbad00ee.png",
+    "card": 132,
+    "name": "The 13th Grave",
+    "recognized": [
+      "The 13th Grave",
+      "The 13th Grave"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d7eff3c5dfc3f5b4258bf0b069bd6e63.png",
+    "card": 490,
+    "name": "Needle Ball",
+    "recognized": [
+      "Needle Ball",
+      "Needle Ball"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d80adc82dc3c6c2c3fe5058a42ecd500.png",
+    "card": 93,
+    "name": "Zanki",
+    "recognized": [
+      "Zanki",
+      "Zanki"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "d992140c606d8a4cd34fa281d0f0e68f.png",
+    "card": 16,
+    "name": "Time Wizard",
+    "recognized": [
+      "Time Wizard",
+      "Time Wizard"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "da85054459932debeb8168cdc8f8f0b8.png",
+    "card": 166,
+    "name": "Mysterious Puppeteer",
+    "recognized": [
+      "Mysterious Puppeteer",
+      "Mysterious Puppeteer"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "db61d73c07514b1172de3a7a5b04fdb8.png",
+    "card": 130,
+    "name": "Weather Control",
+    "recognized": [
+      "Weather Control",
+      "Weather Control"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "dbf5d848246a34efbf27116128c41318.png",
+    "card": 549,
+    "name": "Frog The Jam",
+    "recognized": [
+      "Frog The Jan",
+      "Frog The Jam"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "dc473026e2951e2ef6bc17e4aca4920e.png",
+    "card": 5,
+    "name": "Ryu-kishin",
+    "recognized": [
+      "Ryu-kishin",
+      "Ryu-kishin"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "dc77b66c25636d2aa319e2725c4dd411.png",
+    "card": 131,
+    "name": "Octoberser",
+    "recognized": [
+      "Octoberser",
+      "Octoberser"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "dc8e9fced48f2a5e3f6a6bc5799a399e.png",
+    "card": 196,
+    "name": "Arma Knight",
+    "recognized": [
+      "Arma Knight",
+      "Arma Knight"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e05129bb9fcc95f946bf9b5af6d7e929.png",
+    "card": 40,
+    "name": "Dragon Piper",
+    "recognized": [
+      "Dragon Piper",
+      "Dragon Piper"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e064aad6d62081aa1e508bb44ed508cc.png",
+    "card": 243,
+    "name": "Water Element",
+    "recognized": [
+      "Water Element",
+      "Water Element"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e1aa3e15af48ff589487174bf47c4725.png",
+    "card": 236,
+    "name": "Guardian of the Labyrinth",
+    "recognized": [
+      "Guardian of the Labyrinth",
+      "Guardian of the Labyrinth"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "e1fd46f4ad6805682ea7ea9032d866a4.png",
+    "card": 233,
+    "name": "Dark Titan of Terror",
+    "recognized": [
+      "Dark Titan of Terror",
+      "Dark Titan of Terror"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e21c8adbadb295816852fa4a42adf21e.png",
+    "card": 110,
+    "name": "Hero of the East",
+    "recognized": [
+      "Hero of the East",
+      "Hero of the East"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e31502ba1088c42cbafcef7152f95251.png",
+    "card": 417,
+    "name": "Blast Juggler",
+    "recognized": [
+      "Blast Juggler",
+      "Blast Juggler"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e316222a72d0a6d33410544bdca8964d.png",
+    "card": 559,
+    "name": "Oscillo Hero",
+    "recognized": [
+      "Oscillo Hero",
+      "Oscillo Hero"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e42ffd83fed47e5926a0d2c03173a0a9.png",
+    "card": 197,
+    "name": "Mech Mole Zombie",
+    "recognized": [
+      "Mech Mole Zombie",
+      "Mech Mole Zombie"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e5849bbfb9b865580e1e2a4d7d9a0f1e.png",
+    "card": 244,
+    "name": "Dissolverock",
+    "recognized": [
+      "Dissolverock",
+      "Dissolverock"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e64b810c8e381347da38daf01a5afc8b.png",
+    "card": 62,
+    "name": "Harpie Lady",
+    "recognized": [
+      "Harpie Lady",
+      "Harpie Lady"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e849bec365707c48c22450c8a9caffd4.png",
+    "card": 4,
+    "name": "Baby Dragon",
+    "recognized": [
+      "Baby Dragon",
+      "Baby Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e8632b21c04ee5a03a472a67b5914c95.png",
+    "card": 143,
+    "name": "Necrolancer the Timelord",
+    "recognized": [
+      "Necrolancer the Timelord",
+      "Necrolancer the Timelord"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "e94696e0a618653abce743133a2fa4be.png",
+    "card": 624,
+    "name": "High Tide Gyojin",
+    "recognized": [
+      "High Tide Gyojin",
+      "High Tide Gyojin"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ea3df9579cfc4c672b2fb65920ac0d16.png",
+    "card": 486,
+    "name": "Boo Koo",
+    "recognized": [
+      "Boo Koo",
+      "Bao Koo"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "ec456171bf0a02bb521e0585dca95b0e.png",
+    "card": 216,
+    "name": "Dryad",
+    "recognized": [
+      "Dryad",
+      "Dryad"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "ecd428eba70c815984aa443652eed535.png",
+    "card": 526,
+    "name": "Neck Hunter",
+    "recognized": [
+      "Neck Hunter",
+      "Neck Hunter"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "ecf34b69801356ba22249fc5e87ae0c8.png",
+    "card": 212,
+    "name": "Meotoko",
+    "recognized": [
+      "Meotoko",
+      "Meotoko"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ed6a98f8791a666e3a37b6c6a0bf6976.png",
+    "card": 253,
+    "name": "Angelwitch",
+    "recognized": [
+      "Angelwitch",
+      "Angelwitch"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ef30cd62fd75f6e327549360ac13c26a.png",
+    "card": 17,
+    "name": "Right Leg of the Forbidden One",
+    "recognized": [
+      "Right Leg of the Forbidden One",
+      "Ripht Leg o\u1ebb the Fortidden One"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ex.png",
+    "card": 21,
+    "name": "Exodia the Forbidden",
+    "recognized": [
+      "Exodia the Forbidden",
+      "Exodia the Forbidden"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f02ff034bfe02d73fd7bd9b81ee2a6d6.png",
+    "card": 541,
+    "name": "Hane-Hane",
+    "recognized": [
+      "Hane-Hane",
+      "Hane-Hane"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "f05b4d3db60cb2a73c359801c850006d.png",
+    "card": 157,
+    "name": "Firegrass",
+    "recognized": [
+      "Firegrass",
+      "Firegrass"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "f0a2876a7ee10c90aef12af47be404f8.png",
+    "card": 603,
+    "name": "Fairy Dragon",
+    "recognized": [
+      "Fairy Dragon",
+      "Fairy Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f0ad0b30bd056fab74d504e1a9943152.png",
+    "card": 103,
+    "name": "Job-Change Mirror",
+    "recognized": [
+      "Job-change Mirror",
+      "Job-Change Mirror"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f0f23fdf166e301b045d04ab9250f131.png",
+    "card": 556,
+    "name": "The Wandering Doomed",
+    "recognized": [
+      "The Wandering Doomed",
+      "The Wandering Doomed"
+    ],
+    "score": 1.0,
+    "method": "OCR name"
+  },
+  {
+    "file": "f18573f2b731f186128779ce4e457354.png",
+    "card": 175,
+    "name": "Ancient Brain",
+    "recognized": [
+      "Ancient Brain",
+      "Ancient Brain"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f1d8c313fac722c05da2d46797a00949.png",
+    "card": 91,
+    "name": "Mystic Horseman",
+    "recognized": [
+      "Mystic Horseman",
+      "Mystic Horseman"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f26bb88447e57ee6f3aaa8a8cc6071c7.png",
+    "card": 432,
+    "name": "Waterdragon Fairy",
+    "recognized": [
+      "Waterdragon Fairy",
+      "Waterdragon Fairy"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f392e910cdeb8fe3511b80bc02dc2d15.png",
+    "card": 442,
+    "name": "Aqua Dragon",
+    "recognized": [
+      "Aqua Dragon",
+      "Aqua Dragon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f3b75d52edded14fa7cfbdc439e4fcd0.png",
+    "card": 498,
+    "name": "Morinphen",
+    "recognized": [
+      "Morinphen",
+      "Morinphen"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f6f58186096f06a67ba4edccf66c7d81.png",
+    "card": 123,
+    "name": "Dark Plant",
+    "recognized": [
+      "Dark Plant",
+      "Dark Plant"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f73a9d1d10a8a91ff55e39a55fd0904c.png",
+    "card": 289,
+    "name": "Change Slime",
+    "recognized": [
+      "Change Slime",
+      "Change Slime"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f73b55d191a865c6a6b34a25a1364415.png",
+    "card": 352,
+    "name": "Kanan the Swordmistress",
+    "recognized": [
+      "Kanan the Swordmistress",
+      "Kanan the Swordmistress"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f7eead402d6ba33b978b4f1c168d933e.png",
+    "card": 345,
+    "name": "Final Flame",
+    "recognized": [
+      "Final Flame",
+      "Final Flame"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "f81721b8e5ab32656e519bb4dfdf6f38.png",
+    "card": 126,
+    "name": "Orion the Battle King",
+    "recognized": [
+      "Orion the Battle King",
+      "Orion the Battle King"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f81c64e70ca3f2f5a8ae97475bc279a4.png",
+    "card": 99,
+    "name": "Pumpking the King of Ghosts",
+    "recognized": [
+      "Pumpking the King of Ghosts",
+      "Pumpking the King of Ghosts"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f81ed649b6b6bd8afe74afa8d83463b0.png",
+    "card": 359,
+    "name": "Three-legged Zombies",
+    "recognized": [
+      "Three-legged Zombies",
+      "Three-legged Zombies"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f8a751ad78269ad42208448cba00dc97.png",
+    "card": 288,
+    "name": "Dark Artist",
+    "recognized": [
+      "Dark Artist",
+      "Dark Artist"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f8bd94f0f651d7829bea5219e569d6a9.png",
+    "card": 598,
+    "name": "Little Chimera",
+    "recognized": [
+      "Little Chimera",
+      "Little Chimera"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "f9194e3e3036a7ffe72c834e48d43aea.png",
+    "card": 101,
+    "name": "Wings of Wicked Flame",
+    "recognized": [
+      "Wings of Wicked Flane",
+      "Wings of Wicked Flame"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "f94efcd6880a150c9ed1fb5d0deebe6c.png",
+    "card": 84,
+    "name": "Reaper of the Cards",
+    "recognized": [
+      "Reaper of the Cards",
+      "Reaper of the Cards"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fa9f921e931160f2dda11741a2581eb3.png",
+    "card": 71,
+    "name": "Jellyfish",
+    "recognized": [
+      "Jellyfish",
+      "Jellyfish"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fae062869317e6532b002532e061da9e.png",
+    "card": 119,
+    "name": "Trial of Nightmares",
+    "recognized": [
+      "Trial of Nightmares",
+      "Trial of Nightmares"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fafe7c60c024964aebebfebaf07ca518.png",
+    "card": 684,
+    "name": "Invisible Wire",
+    "recognized": [
+      "Invisible Wire",
+      "Invisible Wire"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fb4492811edc57342fff4c6e457739c6.png",
+    "card": 555,
+    "name": "Tyhone #2",
+    "recognized": [
+      "Tyhone #2",
+      "Tyhone #2"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "fbbdd39f5e319ec4d568d3b217cf4084.png",
+    "card": 554,
+    "name": "Lava Battleguard",
+    "recognized": [
+      "Lava Battleguard",
+      "Lava Battleguard"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "fcf059a026ca90b3710f244793bab1fc.png",
+    "card": 128,
+    "name": "LaMoon",
+    "recognized": [
+      "LaMoon",
+      "LaMoon"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fd987549c978d4777b5aafdeb642fe05.png",
+    "card": 500,
+    "name": "Dragon Seeker",
+    "recognized": [
+      "Dragon Seeker",
+      "Dragon Secker"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fda91c70bdc053166f64d31ce17a7abf.png",
+    "card": 141,
+    "name": "Spiked Snail",
+    "recognized": [
+      "Spiked Snail",
+      "Spiked Snall"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fe382409184ed6186040f76685067b9b.png",
+    "card": 42,
+    "name": "Illusionist Faceless Mage",
+    "recognized": [
+      "Illusionist Faceless bage",
+      "Illusionist Faceless Mage"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ff64735114b056ca1318130919627bd8.png",
+    "card": 583,
+    "name": "Weather Report",
+    "recognized": [
+      "Weather Report",
+      "Weather Report"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "ff7081d793d334d41d2519d664b965c5.png",
+    "card": 147,
+    "name": "Monster Egg",
+    "recognized": [
+      "Monster Egg",
+      "Monster Egg"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "ff94cc71c7997811f3882ef1af014546.png",
+    "card": 184,
+    "name": "Genin",
+    "recognized": [
+      "Genin",
+      "Genin"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "fr1.png",
+    "card": 595,
+    "name": "Fiend Refrection #1",
+    "recognized": [
+      "Fiend Refrection #1",
+      "Fiend Refrection #1"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  },
+  {
+    "file": "fr2.png",
+    "card": 186,
+    "name": "Fiend Refrection #2",
+    "recognized": [
+      "Fiend Refrection #2",
+      "Fiend Refrection #2"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "jn.png",
+    "card": 379,
+    "name": "La Jinn the Mystical Genie",
+    "recognized": [
+      "La Jinn the Mystical Genie",
+      "La Jinu the Mystical Genie"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "wd1.png",
+    "card": 7,
+    "name": "Winged Dragon #1",
+    "recognized": [
+      "Winged Dragon #1",
+      "Winged Dragon #1"
+    ],
+    "score": 1.0,
+    "method": "OCR number + name"
+  },
+  {
+    "file": "wd2.png",
+    "card": 552,
+    "name": "Winged Dragon #2",
+    "recognized": [
+      "Winged Dragon #2",
+      "Winged Dragon #2"
+    ],
+    "score": 1.0,
+    "method": "OCR name over ambiguous number"
+  }
+]

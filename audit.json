@@ -1,0 +1,418 @@
+{
+  "issues": [
+    {
+      "kind": "unidentified_heading",
+      "text": "Armored Fish (?) - Questionable"
+    },
+    {
+      "kind": "txt_number_corrected",
+      "name": "Green Phantom King",
+      "old": 273,
+      "canonical": 274
+    },
+    {
+      "kind": "txt_number_corrected",
+      "name": "Gruesome Goo",
+      "old": 52,
+      "canonical": 646
+    },
+    {
+      "kind": "txt_number_corrected",
+      "name": "Kaiser Dragon",
+      "old": 437,
+      "canonical": 427
+    },
+    {
+      "kind": "unidentified_heading",
+      "text": "Phantom Warrior (?) - Questionable"
+    },
+    {
+      "kind": "unidentified_heading",
+      "text": "Raven (?)"
+    },
+    {
+      "kind": "unidentified_heading",
+      "text": "Twister (?) - Questionable"
+    },
+    {
+      "kind": "unidentified_heading",
+      "text": "W-Warrior (/)"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Ancient Sorceror",
+      "to": "Ancient Sorcerer"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Masked Sorceror",
+      "to": "Masked Sorcerer"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Queen of Autmn Leaves",
+      "to": "Queen of Autumn Leaves"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Spiked Seadra",
+      "to": "Spike Seadra"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Rose Specter of Dunn",
+      "to": "Rose Spectre of Dunn"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Yamatanod Dragon Scroll",
+      "to": "Yamatano Dragon Scroll"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Harpy's Feather Duster",
+      "to": "Harpie's Feather Duster"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Shadow Spectre",
+      "to": "Shadow Specter"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Hinoitama Soul",
+      "to": "Hinotama Soul"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Bolt Escargo",
+      "to": "Bolt Escargot"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Blue Wing Crown",
+      "to": "Blue-winged Crown"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Little Chiimera",
+      "to": "Little Chimera"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Viswar Randi",
+      "to": "Vishwar Randi"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Kagemushi of the Blue Flame",
+      "to": "Kagemusha of the Blue Flame"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Gharma Sword Oath",
+      "to": "Garma Sword Oath"
+    },
+    {
+      "kind": "name_alias",
+      "from": "The Great Mammoth of Goldfine",
+      "to": "Great Mammoth of Goldfine"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Mystic Sheep #2",
+      "to": "Mystical Sheep #2"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Fiend Refraction #1",
+      "to": "Fiend Refrection #1"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Crimson Sunbirc",
+      "to": "Crimson Sunbird"
+    },
+    {
+      "kind": "name_alias",
+      "from": "That Shadow that Controls the Dark",
+      "to": "The Shadow Who Controls the Dark"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Dark Wtich",
+      "to": "Dark Witch"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Air Marmot of Nefariouesness",
+      "to": "Air Marmot of Nefariousness"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Seprent Marauder",
+      "to": "Serpent Marauder"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Bean Soldie",
+      "to": "Bean Soldier"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Maveulus",
+      "to": "Mavelus"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Wings of Wicked Flames",
+      "to": "Wings of Wicked Flame"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Mystic Elf",
+      "to": "Mystical Elf"
+    },
+    {
+      "kind": "name_alias",
+      "from": "The Immmortal of Thunder",
+      "to": "The Immortal of Thunder"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Tatsunootashigo",
+      "to": "Tatsunootoshigo"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Cockroack Knight",
+      "to": "Cockroach Knight"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Curse of the Millenium Shield",
+      "to": "Curse of Millennium Shield"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Kaminarkozou",
+      "to": "Kaminarikozou"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Revival of Sennen Ginjin",
+      "to": "Revival of Sennen Genjin"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Wicked Dragon wit the Ersatz Head",
+      "to": "Wicked Dragon with the Ersatz Head"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Waster Magician",
+      "to": "Water Magician"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Typhone #2",
+      "to": "Tyhone #2"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Holograph",
+      "to": "Holograh"
+    },
+    {
+      "kind": "name_alias",
+      "from": "Flame Cerebus",
+      "to": "Flame Cerebrus"
+    }
+  ],
+  "unresolved": {
+    "W-Warrior": 6,
+    "Black Luster Soldier Ritual": 2,
+    "Revival of Serpent Knight Dragon Ritual": 2,
+    "Yamadrom Ritual": 2,
+    "Blue-eyes Ultimate Dragon Ritual": 2,
+    "Contruct of Mast": 2,
+    "Twister": 1,
+    "Raven": 1,
+    "Psycho Puppet Ritual": 2,
+    "Armored Fish": 1,
+    "Phantom Warrior": 1
+  },
+  "conflicts": [
+    {
+      "a": 65,
+      "b": 272,
+      "results": [
+        {
+          "id": 529,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 15,
+          "sources": [
+            "HTML"
+          ]
+        }
+      ],
+      "preferred": [
+        15
+      ]
+    },
+    {
+      "a": 71,
+      "b": 448,
+      "results": [
+        {
+          "id": 458,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 73,
+          "sources": [
+            "HTML"
+          ]
+        }
+      ],
+      "preferred": [
+        73
+      ]
+    },
+    {
+      "a": 96,
+      "b": 231,
+      "results": [
+        {
+          "id": 96,
+          "sources": [
+            "HTML"
+          ]
+        },
+        {
+          "id": 136,
+          "sources": [
+            "HTML"
+          ]
+        }
+      ],
+      "preferred": [
+        96,
+        136
+      ]
+    },
+    {
+      "a": 97,
+      "b": 110,
+      "results": [
+        {
+          "id": 545,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 11,
+          "sources": [
+            "HTML"
+          ]
+        }
+      ],
+      "preferred": [
+        11
+      ]
+    },
+    {
+      "a": 109,
+      "b": 253,
+      "results": [
+        {
+          "id": 638,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 582,
+          "sources": [
+            "TXT"
+          ]
+        }
+      ],
+      "preferred": [
+        638,
+        582
+      ]
+    },
+    {
+      "a": 123,
+      "b": 635,
+      "results": [
+        {
+          "id": 638,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 582,
+          "sources": [
+            "TXT"
+          ]
+        }
+      ],
+      "preferred": [
+        638,
+        582
+      ]
+    },
+    {
+      "a": 160,
+      "b": 548,
+      "results": [
+        {
+          "id": 470,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 30,
+          "sources": [
+            "HTML"
+          ]
+        }
+      ],
+      "preferred": [
+        30
+      ]
+    },
+    {
+      "a": 202,
+      "b": 586,
+      "results": [
+        {
+          "id": 487,
+          "sources": [
+            "TXT"
+          ]
+        },
+        {
+          "id": 64,
+          "sources": [
+            "HTML"
+          ]
+        }
+      ],
+      "preferred": [
+        64
+      ]
+    }
+  ]
+}
